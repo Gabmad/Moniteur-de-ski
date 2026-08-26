@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "home": {
+      "title": "Gabriel Madie | Photographe | Storytelling & Image de Marque | Annecy, Haute-Savoie",
+      "description": "Photographe à Annecy spécialisé en storytelling visuel, image de marque, reportages et couverture d'événements. Basé en Haute-Savoie, je me déplace là où vous avez du besoin."
+    },
+    "about": {
+      "title": "À propos | Gabriel Madie, photographe à Annecy",
+      "description": "Photographe et vidéaste outdoor basé à Annecy. Ski, sports nautiques, trail, vélo — un regard tout terrain, à l'épreuve des éléments."
+    },
+    "portfolio": {
+      "title": "Portfolio | Gabriel Madie Photographe",
+      "description": "Galerie photographique : ski, snowboard, surf, kitesurf, foil, trail running, vélo et lifestyle."
+    },
+    "projects": {
+      "title": "Projets | Gabriel Madie Photographe",
+      "description": "Projets photographiques, collaborations et reportages de Gabriel Madie."
+    },
+    "shop": {
+      "title": "Boutique | Gabriel Madie Photographe",
+      "description": "Tirages et produits photographiques de Gabriel Madie."
+    },
+    "blog": {
+      "title": "Blog | Gabriel Madie Photographe",
+      "description": "Récits, coulisses et notes de voyage du photographe Gabriel Madie."
+    },
+    "contact": {
+      "title": "Contact | Gabriel Madie Photographe",
+      "description": "Échangeons sur votre projet photo ou vidéo. Annecy, Haute-Savoie — FR · EN · PT."
+    },
+    "cart": {
+      "title": "Panier | Gabriel Madie Photographe",
+      "description": "Votre panier."
+    }
+  },
+  "brand": {
+    "name": "Gabriel Madie",
+    "role": "Photographe",
+    "full": "Gabriel Madie | Photographe"
+  },
+  "nav": {
+    "about": "À propos",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "projects": "Projets",
+    "shop": "Boutique",
+    "contact": "Contact",
+    "cart": "Panier",
+    "contactCta": "Contact",
+    "menu": "Menu",
+    "close": "Fermer",
+    "categories": {
+      "water": "Water",
+      "trail": "Trail Running",
+      "snow": "Snow",
+      "life": "Life",
+      "video": "Video"
+    }
+  },
+  "hero": {
+    "title": "Photographe",
+    "subtitle": "Une marque ? Une histoire à raconter ? Un projet à mettre en valeur ?",
+    "tags": {
+      "snow": "Ski - Snowboard",
+      "water": "Surf - Kitesurf - Foil",
+      "bike": "Vélo",
+      "trail": "Trail - Running"
+    }
+  },
+  "story": {
+    "scenes": [
+      {
+        "title": "mettre en lumière",
+        "title2": "une histoire, un talent, un rêve :",
+        "subtitle": "d'une personne, d'une marque ou d'un territoire."
+      },
+      {
+        "title": "vos gestes",
+        "title2": "et ce qui les entourent",
+        "subtitle": ""
+      },
+      {
+        "title": "UN sport",
+        "title2": "",
+        "subtitle": ""
+      },
+      {
+        "title": "des perspectives variées",
+        "title2": "",
+        "subtitle": ""
+      },
+      {
+        "title": "photographe — (athlète)",
+        "title2": "",
+        "subtitle": ""
+      }
+    ]
+  },
+  "identity": {
+    "words": [
+      "Photographe",
+      "vidéaste",
+      "skieur,",
+      "surfeur,",
+      "coureur,",
+      "Cycliste,",
+      "Aventurier."
+    ]
+  },
+  "about": {
+    "title": "un regard tout terrain, à l'épreuve des éléments",
+    "paragraphs": [
+      "Je base ma photographie sur l'exploration : des lieux, des angles, des textures, des techniques, des sujets et des histoires qui en émergent.",
+      "Mon travail gravite principalement autour des différents états de l'eau. Des milieux dans lesquels j'aime particulièrement évoluer, personnellement et professionnellement.",
+      "Cette passion pour le sport et l'outdoor me permet de mieux comprendre et retranscrire en images ce qui s'y passe, tout en explorant les limites de ma créativité.",
+      "Créer du lien — avec les autres, avec la nature, avec mon environnement et ma créativité — est ce qui fait de mon appareil photo mon outil de prédilection.",
+      "Alors si vous voulez échanger sur un de vos projets, ou simplement par plaisir de connecter, contactez moi ! Si vous en êtes arrivé là, je serai ravi de faire votre connaissance !"
+    ],
+    "cta": "Contact"
+  },
+  "partners": {
+    "title": "Ils me font confiance"
+  },
+  "gallery": {
+    "viewFull": "Voir en taille réelle",
+    "close": "Fermer",
+    "prev": "Précédent",
+    "next": "Suivant"
+  },
+  "testimonials": {
+    "title": "Retour d'expérience",
+    "items": [
+      {
+        "quote": "Nous avons fait appel à Gabriel pour notre mariage, et le résultat est tout simplement magnifique! Il a fait un travail remarquable : les images sont superbes, le montage plein d'émotion et surtout, la vidéo est à notre image. Gabriel a été très à l'écoute, attentif à nos envies et pleinement investi tout au long de la journée et de la soirée. Un grand merci pour ton professionnalisme, ta gentillesse et ta passion. Grâce à toi, nous garderons un souvenir inoubliable de ce moment unique ! Nous le recommandons vivement !",
+        "author": "Christophe B."
+      },
+      {
+        "quote": "Look no further if u want a superb photographer. Gabriel made the booking process and the meeting easy and flexible, arrvd on time, and proceeded to take dream photos, many action shots as he skid down with us, portraits, unbelievable quality and imagination. We are blown away by the photos. He waited uncomplainingly even tho we ran over time when 2 of the group were late for the 2nd part of the session further down. He stayed late to get the last group shots done before skiing off at speed to get to his next client booking. Simply extraordinary, we have never known a service like this.",
+        "author": "Gareth R."
+      },
+      {
+        "quote": "Spectacular photography and such a nice guy! Highly recommend his work!",
+        "author": "S. G."
+      }
+    ]
+  },
+  "services": {
+    "title": "Les services",
+    "cta": "Entrer en contact",
+    "items": {
+      "commercial": {
+        "title": "Photographie commerciale",
+        "text": "Mettez en valeur votre marque, établissement, commerce, avec des visuels uniques et attractifs."
+      },
+      "private": {
+        "title": "Shooting privé",
+        "text": "Shooting photo de 30min, 1h, 2h et +",
+        "details": ["à pied,", "sous l'eau,", "à vélo,", "en montagne."]
+      },
+      "events": {
+        "title": "Événements",
+        "text": "Des photos qui mettent en lumière l'énergie, l'ambiance et les émotions de vos événements.",
+        "note": "En vélo électrique, en courant, ou à ski, j'atteins les endroits les plus éloignés."
+      }
+    }
+  },
+  "cta": {
+    "title": "Réservez un Photoshoot privé.",
+    "languages": "In English / Em Português / En Français / En Español",
+    "button": "Contact"
+  },
+  "footer": {
+    "instagram": "Instagram",
+    "email": "Email"
+  },
+  "whatsapp": {
+    "trigger": "WhatsApp",
+    "title": "Écrire sur WhatsApp",
+    "subtitle": "Décrivez votre projet en quelques mots — je vous réponds rapidement.",
+    "placeholder": "Bonjour Gabriel, j'aimerais parler d'un shooting…",
+    "send": "Ouvrir WhatsApp",
+    "close": "Fermer",
+    "prefill": "Bonjour Gabriel,"
+  },
+  "pages": {
+    "about": {
+      "eyebrow": "À propos",
+      "lead": "Photographe, vidéaste et athlète — basé à Annecy, je raconte des histoires outdoor et des marques en mouvement."
+    },
+    "portfolio": {
+      "eyebrow": "Portfolio",
+      "title": "Un regard tout terrain",
+      "lead": "Ski, neige, eau, sentiers, vélo, vie — une sélection de séries."
+    },
+    "projects": {
+      "eyebrow": "Projets",
+      "title": "Collaborations & reportages",
+      "lead": "Des missions de marque aux récits d'athlètes. Les projets détaillés arriveront ici.",
+      "empty": "Les études de cas seront publiées prochainement."
+    },
+    "shop": {
+      "eyebrow": "Boutique",
+      "title": "Tirages & objets",
+      "lead": "La boutique est en préparation. Revenez bientôt pour les tirages.",
+      "empty": "Aucun produit pour le moment."
+    },
+    "blog": {
+      "eyebrow": "Blog",
+      "title": "Coulisses & récits",
+      "lead": "Notes de terrain, processus et voyages — bientôt ici.",
+      "empty": "Les premiers articles arrivent."
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Parlons de votre projet",
+      "lead": "Une marque, une histoire, un événement — écrivez-moi. Je réponds en français, anglais et portugais.",
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Envoyer",
+      "or": "ou",
+      "whatsapp": "WhatsApp"
+    },
+    "cart": {
+      "title": "Panier",
+      "empty": "Votre panier est vide.",
+      "shop": "Voir la boutique"
+    }
+  },
+  "language": {
+    "label": "Langue"
+  }
+}
