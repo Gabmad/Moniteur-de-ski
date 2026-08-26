@@ -1,0 +1,481 @@
+{
+  "brand": "Private Teaching",
+  "nav": {
+    "home": "Accueil",
+    "skiLessons": "Ski & Snowboard",
+    "touring": "Randonnée",
+    "photography": "Photographie",
+    "about": "À propos",
+    "contact": "Contact",
+    "bookCta": "Réserver un cours"
+  },
+  "meta": {
+    "home": {
+      "title": "Moniteur de ski Courchevel, Méribel, Val Thorens | Trois Vallées",
+      "description": "Moniteur diplômé d'État à Courchevel, Méribel et Val Thorens. Cours de ski et snowboard, ski de randonnée et splitboard — initiation ou sortie avancée. FR · EN · PT.",
+      "keywords": "moniteur de ski Courchevel, moniteur de ski Méribel, moniteur de ski Val Thorens, moniteur ski Trois Vallées, cours de ski privé Courchevel, ski instructor Meribel, moniteur ski de randonnée, moniteur splitboard, initiation ski randonnée Val Thorens"
+    },
+    "skiLessons": {
+      "title": "Cours de ski privé Courchevel | Méribel & Val Thorens",
+      "description": "Cours particuliers de ski et snowboard à Courchevel, Méribel, Val Thorens, Les Menuires et Saint-Martin. Demi-journée 550€, journée 770€. Moniteur diplômé d'État, FR · EN · PT.",
+      "keywords": "cours de ski privé Courchevel, cours snowboard Méribel, ski lesson Val Thorens, moniteur ski Les Menuires, accompagnement hors-piste Trois Vallées"
+    },
+    "touring": {
+      "title": "Moniteur ski de randonnée & splitboard | Trois Vallées",
+      "description": "Initiation ou sortie avancée en ski de randonnée et splitboard à Courchevel, Méribel et Val Thorens. Moniteur diplômé d'État, accompagnement privé.",
+      "keywords": "moniteur ski de randonnée Trois Vallées, moniteur splitboard Courchevel, initiation ski randonnée Méribel, sortie ski de randonnée Val Thorens, splitboard instructor French Alps"
+    },
+    "photography": {
+      "title": "Photographe ski Trois Vallées | Photo dès 230€ · Vidéo dès 550€",
+      "description": "Photographie éditoriale sur les pistes des Trois Vallées. Présence discrète, moments authentiques, galerie privée. Photo 1h 230€, demi-journée 550€, journée 970€. Vidéo 4K–8K dès 550€.",
+      "keywords": "photographe ski Courchevel, photo montagne Trois Vallées, ski photography Val Thorens, fotógrafo esqui Méribel"
+    },
+    "about": {
+      "title": "À propos — Moniteur diplômé d'État, ski & snowboard, Trois Vallées",
+      "description": "Diplômé d'État de moniteur de ski, 7 saisons d'enseignement, 20 ans dans les Trois Vallées. Cours et accompagnement en français, anglais et portugais.",
+      "keywords": "moniteur ski diplômé d'État Courchevel, ski instructor 20 years Trois Vallées, instrutor esqui português Alpes"
+    },
+    "contact": {
+      "title": "Contact & réservation — Moniteur de ski Trois Vallées | WhatsApp",
+      "description": "Réservez un cours de ski, un accompagnement, une sortie randonnée ou une séance photo par WhatsApp. gabrielmadie@gmail.com — FR · EN · PT.",
+      "keywords": "réserver moniteur ski Courchevel, book ski lesson Val Thorens, reservar aula esqui Trois Vallées WhatsApp"
+    },
+    "courchevel": {
+      "title": "Moniteur de ski à Courchevel | Cours privés diplômé d'État",
+      "description": "Moniteur de ski privé à Courchevel 1850, 1650 et 1550. Cours, hors-piste, ski de randonnée et splitboard dans les Trois Vallées. FR · EN · PT.",
+      "keywords": "moniteur de ski Courchevel, cours de ski privé Courchevel 1850, moniteur snowboard Courchevel, ski de randonnée Courchevel, splitboard Courchevel"
+    },
+    "meribel": {
+      "title": "Moniteur de ski à Méribel | Cours privés Trois Vallées",
+      "description": "Moniteur de ski privé à Méribel et Méribel-Mottaret. Cours de ski, snowboard, ski de randonnée et splitboard au cœur des Trois Vallées.",
+      "keywords": "moniteur de ski Méribel, cours de ski privé Méribel Mottaret, ski instructor Meribel, ski de randonnée Méribel, splitboard Méribel"
+    },
+    "valThorens": {
+      "title": "Moniteur de ski à Val Thorens | Cours & ski de randonnée",
+      "description": "Moniteur de ski privé à Val Thorens, plus haute station d'Europe. Cours, hors-piste, ski de randonnée et splitboard. Diplômé d'État.",
+      "keywords": "moniteur de ski Val Thorens, cours de ski privé Val Thorens, ski de randonnée Val Thorens, moniteur splitboard Val Thorens, ski instructor Val Thorens"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Les Trois Vallées",
+      "title": "Moniteur de ski privé dans les Trois Vallées",
+      "subtitle": "Cours de ski et snowboard, ski de randonnée et splitboard. En français, anglais et portugais — à Val Thorens, Méribel, Courchevel et autres stations des Alpes.",
+      "cta": "Réserver un cours",
+      "ctaSecondary": "Photographie",
+      "languages": "En français, anglais et portugais"
+    },
+    "stats": {
+      "seasons": "saisons d'enseignement",
+      "years": "ans dans les Trois Vallées",
+      "languages": "langues parlées",
+      "diplomaValue": "DE",
+      "diploma": "Diplôme d'État"
+    },
+    "intro": {
+      "title": "Une expérience alpine, sur-mesure",
+      "diploma": "Diplômé d'État de moniteur de ski — le diplôme officiel français",
+      "text": "Installé depuis deux décennies entre Courchevel, Méribel et Val Thorens, je connais les Trois Vallées comme ma poche : les meilleures pistes selon le niveau, les zones calmes pour les débutants, les itinéraires de ski de randonnée et de splitboard. Le diplôme d'État est le titre officiel pour enseigner en France : pédagogie, sécurité et montagne — y compris hors-piste.",
+      "text2": "Je parle couramment français, anglais et portugais : une réponse directe à la demande croissante de la clientèle lusophone (Brésil, Portugal) qui cherche un moniteur capable de transmettre en portugais, dans l'un des plus vastes domaines skiables du monde."
+    },
+    "services": {
+      "title": "Expertise & services",
+      "headline": "Cours, randonnée, photographie",
+      "ski": {
+        "title": "Ski & snowboard",
+        "description": "Cours particuliers à Courchevel, Méribel et Val Thorens. Ski et snowboard, du débutant à l'expert.",
+        "link": "Voir les cours"
+      },
+      "touring": {
+        "title": "Ski de randonnée & splitboard",
+        "description": "Initiation ou sortie avancée. Peaux de phoque, splitboard, hors-piste — à votre rythme, en sécurité.",
+        "link": "Voir les sorties"
+      },
+      "guide": {
+        "title": "Piste & hors-piste",
+        "description": "Pas seulement des cours : un accompagnement privé sur les pistes et en dehors, pour skier à votre rythme.",
+        "link": "En savoir plus"
+      },
+      "photo": {
+        "title": "Photographie sur les pistes",
+        "description": "Photographe professionnel : immortalisez vos vacances au ski avec des images dignes d'un album de montagne.",
+        "link": "Voir la galerie"
+      },
+      "combo": {
+        "title": "Pack cours + photos",
+        "description": "Combinez progression et souvenirs : une demi-journée de ski suivie d'une séance photo au coucher du soleil.",
+        "link": "Demander un devis"
+      }
+    },
+    "stations": {
+      "eyebrow": "Le domaine",
+      "title": "Cinq stations, un seul massif",
+      "subtitle": "Un moniteur de ski privé qui connaît Courchevel, Méribel, Val Thorens, Les Menuires et Saint-Martin-de-Belleville.",
+      "places": [
+        {
+          "id": "courchevel",
+          "name": "Courchevel",
+          "blurb": "Cours privés à Courchevel 1850, 1650 et 1550 — familles, débutants et skieurs confirmés, loin des files d'école de ski."
+        },
+        {
+          "id": "meribel",
+          "name": "Méribel",
+          "blurb": "Au cœur des Trois Vallées. Un moniteur de ski à Méribel et Mottaret pour relier tout le domaine, en piste ou hors-piste."
+        },
+        {
+          "id": "valThorens",
+          "name": "Val Thorens",
+          "blurb": "La plus haute station d'Europe : neige sûre, hors-piste, ski de randonnée et splitboard depuis Val Thorens."
+        },
+        {
+          "id": "menuires",
+          "name": "Les Menuires",
+          "blurb": "Terrain généreux pour progresser, familles et groupes. Accès direct au reste du massif."
+        },
+        {
+          "id": "saintMartin",
+          "name": "Saint-Martin-de-Belleville",
+          "blurb": "Village authentique, pistes calmes, et la liaison vers Méribel et Les Menuires."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "items": [
+        {
+          "q": "Où donnez-vous des cours de ski dans les Trois Vallées ?",
+          "a": "À Courchevel, Méribel, Val Thorens, Les Menuires et Saint-Martin-de-Belleville. On se retrouve dans la station de votre séjour."
+        },
+        {
+          "q": "Proposez-vous du ski de randonnée et du splitboard ?",
+          "a": "Oui. Initiation (peaux, conversions, première descente) ou sortie avancée, en ski de randonnée comme en splitboard, selon le niveau et les conditions."
+        },
+        {
+          "q": "Êtes-vous diplômé pour enseigner à Courchevel, Méribel et Val Thorens ?",
+          "a": "Oui. Je suis moniteur diplômé d'État, le titre officiel pour enseigner le ski en France. Sept saisons d'enseignement, vingt ans dans le massif."
+        },
+        {
+          "q": "En quelles langues se déroulent les cours ?",
+          "a": "En français, anglais et portugais — y compris pour une clientèle brésilienne et portugaise."
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Réservation",
+      "title": "Réservez votre séjour",
+      "subtitle": "Un cours, une sortie ski de randonnée ou splitboard, une séance photo. Réponse rapide par WhatsApp.",
+      "button": "Réserver un cours"
+    }
+  },
+  "footer": {
+    "tagline": "Moniteur diplômé d'État — ski, snowboard, randonnée & photographie, Les Trois Vallées",
+    "rights": "Tous droits réservés.",
+    "whatsapp": "WhatsApp"
+  },
+  "common": {
+    "learnMore": "En savoir plus",
+    "backToHome": "Retour à l'accueil"
+  },
+  "skiPage": {
+    "eyebrow": "Ski & snowboard",
+    "title": "Cours et accompagnement privés",
+    "subtitle": "Ski et snowboard, piste et hors-piste, dans tout le domaine des Trois Vallées.",
+    "intro": "Moniteur diplômé d'État, j'enseigne le ski et le snowboard à Courchevel, Méribel, Val Thorens, Les Menuires et Saint-Martin-de-Belleville. Cours particuliers, en famille ou en petit groupe — du premier virage à la technique avancée.",
+    "intro2": "Ce n'est pas forcément un cours. Beaucoup de clients veulent simplement un accompagnement : skier à leur rythme, découvrir le domaine, passer hors-piste ou partir en ski de randonnée. La journée s'adapte à vous.",
+    "lessonsTitle": "Cours de ski & snowboard",
+    "lessonsText": "Pédagogie personnalisée, tous niveaux. Ski alpin et snowboard. En français, anglais ou portugais. Un cadre privé, loin des files d'attente des écoles de ski.",
+    "guideTitle": "Accompagnement piste & hors-piste",
+    "guideText": "Je vous emmène sur les plus belles lignes du massif — pistes panoramiques ou hors-piste — avec le diplôme d'État comme garantie de sécurité. Vous skiez ; je m'occupe du reste.",
+    "touringTitle": "Ski de randonnée & splitboard",
+    "touringText": "Initiation ou sortie avancée. Peaux de phoque, splitboard, première conversion ou ligne engagée — selon votre niveau et la météo.",
+    "touringLink": "Découvrir les sorties",
+    "forTitle": "Pour qui",
+    "forItems": [
+      "Familles et enfants",
+      "Particuliers et couples",
+      "Débutants comme skieurs confirmés",
+      "Clientèle lusophone (Brésil, Portugal)"
+    ],
+    "pricingEyebrow": "Tarifs",
+    "pricingTitle": "Cours et accompagnement",
+    "pricingNote": "Les deux formules s'appliquent aux cours de ski / snowboard et à l'accompagnement piste ou hors-piste. Forfait et matériel non inclus.",
+    "halfLabel": "Demi-journée",
+    "halfMeta": "4 heures",
+    "fullLabel": "Journée complète",
+    "fullMeta": "7 heures",
+    "zonesTitle": "Stations",
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Combien coûte un cours de ski privé à Courchevel ?",
+        "a": "550€ la demi-journée (4 h) et 770€ la journée (7 h). Les mêmes tarifs s'appliquent à Méribel, Val Thorens et aux autres stations des Trois Vallées. Forfait et matériel non inclus."
+      },
+      {
+        "q": "Le cours se déroule-t-il dans ma station ?",
+        "a": "Oui. Que vous soyez à Courchevel, Méribel, Val Thorens, Les Menuires ou Saint-Martin, on se retrouve sur place."
+      },
+      {
+        "q": "Peut-on combiner cours de ski et ski de randonnée ?",
+        "a": "Oui. Une journée peut rester sur piste, passer hors-piste, ou devenir une sortie ski de randonnée / splitboard si les conditions le permettent."
+      }
+    ]
+  },
+  "touringPage": {
+    "eyebrow": "Ski de randonnée & splitboard",
+    "title": "Initiation ou sortie avancée",
+    "subtitle": "Ski de randonnée et splitboard à Courchevel, Méribel et Val Thorens — à votre rythme, en sécurité.",
+    "intro": "Je guide des sorties de ski de randonnée et de splitboard dans les Trois Vallées : premières peaux de phoque comme lignes plus engagées. Moniteur diplômé d'État, j'adapte l'itinéraire au niveau, à la météo et à la neige.",
+    "intro2": "On part depuis Courchevel, Méribel ou Val Thorens. Pas besoin d'être un expert : l'initiation existe pour ça. Et si vous skiez déjà hors-piste, on vise des sorties plus longues, plus belles, plus justes.",
+    "initiationEyebrow": "Débuter",
+    "initiationTitle": "Initiation ski de randonnée",
+    "initiationText": "Mettre les peaux, gérer la montée, apprendre les conversions, préparer la descente. Une première sortie encadrée pour comprendre le geste, le rythme et le terrain — sans se mettre en danger.",
+    "advancedEyebrow": "Progresser",
+    "advancedTitle": "Sortie avancée",
+    "advancedText": "Itinéraires plus longs, pentes plus soutenues, choix d'itinéraire selon le bulletin. Pour skieurs et splitboarders déjà à l'aise hors-piste, qui veulent aller plus loin dans le massif.",
+    "splitEyebrow": "Splitboard",
+    "splitTitle": "Moniteur splitboard",
+    "splitText": "Transitions, montée en split, descente en snowboard. J'accompagne les splitboarders comme les skieurs de randonnée : même montagne, un autre engin, la même exigence.",
+    "gearEyebrow": "Équipement",
+    "gearTitle": "Le matériel est-il compris ?",
+    "gearText": "Non. Je ne fournis pas le matériel : skis ou splitboard, peaux, chaussures et bâtons sont à prévoir de votre côté, le plus souvent en location. Je peux vous conseiller sur le choix, selon le niveau et la sortie.",
+    "gearNote": "J'emporte toujours un sac airbag et un ARVA supplémentaires, disponibles si besoin.",
+    "safetyEyebrow": "Montagne",
+    "safetyTitle": "Sécurité et terrain",
+    "safetyText": "Chaque sortie dépend des conditions. Je choisis l'itinéraire, je lis le terrain, je m'arrête s'il le faut. Le diplôme d'État couvre la sécurité en montagne et le hors-piste — c'est le cadre de ces journées.",
+    "pricingNote": "Mêmes tarifs que les cours et l'accompagnement : 550€ la demi-journée, 770€ la journée. Matériel de randonnée et forfait non inclus.",
+    "faqTitle": "Ski de randonnée & splitboard",
+    "faq": [
+      {
+        "q": "Proposez-vous une initiation au ski de randonnée ?",
+        "a": "Oui. L'initiation couvre les peaux, la montée, les conversions et une descente adaptée. Idéal pour une première fois dans les Trois Vallées."
+      },
+      {
+        "q": "Et le splitboard ?",
+        "a": "Oui. Sorties splitboard en initiation ou niveau avancé, depuis Courchevel, Méribel ou Val Thorens, selon la neige du jour."
+      },
+      {
+        "q": "Faut-il déjà avoir fait du hors-piste ?",
+        "a": "Pour l'initiation, non. Pour une sortie avancée, une aisance hors-piste et une condition physique correcte sont nécessaires. On en parle avant de réserver."
+      },
+      {
+        "q": "Où se déroulent les sorties ?",
+        "a": "Dans les Trois Vallées : accès depuis Courchevel, Méribel, Val Thorens, Les Menuires ou Saint-Martin-de-Belleville, selon votre hébergement et le terrain du jour."
+      },
+      {
+        "q": "Le matériel est-il compris ?",
+        "a": "Non. Le matériel de randonnée ou de splitboard est à louer de votre côté. Je conseille le choix si besoin, et j'ai toujours un sac airbag et un ARVA supplémentaires."
+      }
+    ]
+  },
+  "stationPages": {
+    "courchevel": {
+      "eyebrow": "Courchevel · Trois Vallées",
+      "title": "Moniteur de ski à Courchevel",
+      "subtitle": "Cours privés de ski et snowboard, hors-piste, ski de randonnée et splitboard — Courchevel 1850, 1650, 1550.",
+      "intro": "Vous cherchez un moniteur de ski à Courchevel, en dehors des groupes d'école ? Je donne des cours particuliers et j'accompagne en piste, hors-piste, en ski de randonnée et en splitboard, dans tout le secteur de Courchevel.",
+      "intro2": "Vingt ans dans le massif, sept saisons d'enseignement, diplôme d'État. On se retrouve à Courchevel 1850, 1650 ou 1550 — puis on relie Méribel et Val Thorens si la journée le demande.",
+      "pointsEyebrow": "Sur place",
+      "pointsTitle": "Cours de ski privé à Courchevel",
+      "points": [
+        {
+          "title": "Tous niveaux",
+          "text": "Premiers virages sur les pistes calmes, carving à 1850, hors-piste sous la Saulire. La journée est la vôtre."
+        },
+        {
+          "title": "Familles",
+          "text": "Un seul moniteur pour parents et enfants, au rythme de chacun, sans attendre un ramassage d'école de ski."
+        },
+        {
+          "title": "Randonnée & split",
+          "text": "Depuis Courchevel, initiation ou sortie avancée en ski de randonnée et splitboard, dès que la neige le permet."
+        },
+        {
+          "title": "Langues",
+          "text": "Cours en français, anglais ou portugais — y compris pour une clientèle internationale à Courchevel."
+        }
+      ],
+      "alsoText": "Le même accompagnement à Méribel, Val Thorens et dans tout le domaine.",
+      "faqTitle": "Moniteur ski Courchevel",
+      "faq": [
+        {
+          "q": "Où se passe un cours de ski privé à Courchevel ?",
+          "a": "On se retrouve au pied des pistes de Courchevel 1850, 1650 ou 1550, selon votre résidence. Le domaine des Trois Vallées est ensuite ouvert."
+        },
+        {
+          "q": "Faites-vous du ski de randonnée à Courchevel ?",
+          "a": "Oui. Initiation et sorties avancées en ski de randonnée et splitboard, au départ de Courchevel, selon les conditions."
+        }
+      ]
+    },
+    "meribel": {
+      "eyebrow": "Méribel · Trois Vallées",
+      "title": "Moniteur de ski à Méribel",
+      "subtitle": "Cours privés au cœur des Trois Vallées — Méribel et Méribel-Mottaret, piste, hors-piste, randonnée.",
+      "intro": "Méribel est le centre du plus grand domaine skiable du monde. Un moniteur de ski privé à Méribel, c'est pouvoir relier Courchevel d'un côté, Val Thorens de l'autre, sans file d'école de ski.",
+      "intro2": "Cours de ski et snowboard, accompagnement hors-piste, ski de randonnée et splitboard. Diplômé d'État, je parle français, anglais et portugais — une demande fréquente à Méribel.",
+      "pointsEyebrow": "Au centre",
+      "pointsTitle": "Cours de ski privé à Méribel",
+      "points": [
+        {
+          "title": "Méribel & Mottaret",
+          "text": "On se retrouve à Méribel Centre ou Mottaret. De là, tout le massif est à portée : Courchevel, Les Menuires, Val Thorens."
+        },
+        {
+          "title": "Tous terrains",
+          "text": "Pistes larges pour progresser, combes hors-piste, liaisons panoramiques. La journée s'écrit selon votre niveau."
+        },
+        {
+          "title": "Ski de randonnée",
+          "text": "Initiation ou sortie avancée depuis Méribel, en ski de randonnée ou splitboard, quand le bulletin le permet."
+        },
+        {
+          "title": "Anglais & portugais",
+          "text": "Beaucoup de clients internationaux à Méribel. Les cours se font dans votre langue."
+        }
+      ],
+      "alsoText": "Je donne aussi des cours à Courchevel et Val Thorens, dans le même massif.",
+      "faqTitle": "Moniteur ski Méribel",
+      "faq": [
+        {
+          "q": "Cherchez-vous un ski instructor à Méribel ?",
+          "a": "Oui — cours privés de ski et snowboard à Méribel et Mottaret, en français, anglais ou portugais. Diplôme d'État français."
+        },
+        {
+          "q": "Peut-on skier de Méribel vers Val Thorens ou Courchevel ?",
+          "a": "Oui. C'est tout l'intérêt d'un accompagnement privé au centre des Trois Vallées : on relie les stations sans se perdre dans le domaine."
+        }
+      ]
+    },
+    "valThorens": {
+      "eyebrow": "Val Thorens · Trois Vallées",
+      "title": "Moniteur de ski à Val Thorens",
+      "subtitle": "Cours privés, hors-piste, ski de randonnée et splitboard — plus haute station d'Europe.",
+      "intro": "Val Thorens offre la neige la plus fiable des Trois Vallées, et un terrain idéal pour le hors-piste, le ski de randonnée et le splitboard. Un moniteur de ski privé à Val Thorens, c'est skier haut, longtemps, à votre rythme.",
+      "intro2": "Cours de ski et snowboard pour tous niveaux, sorties initiation ou avancées. On se retrouve à Val Thorens ; on peut relier Les Menuires, Méribel et Courchevel dans la journée.",
+      "pointsEyebrow": "En altitude",
+      "pointsTitle": "Cours de ski privé à Val Thorens",
+      "points": [
+        {
+          "title": "Neige et altitude",
+          "text": "Glacier, Cime Caron, pistes d'altitude. Val Thorens reste skiable tôt et tard dans la saison."
+        },
+        {
+          "title": "Hors-piste",
+          "text": "Un terrain vaste pour un accompagnement hors-piste encadré, loin des groupes trop nombreux."
+        },
+        {
+          "title": "Randonnée & splitboard",
+          "text": "Val Thorens est un excellent point de départ pour une initiation ou une sortie avancée en ski de randonnée et splitboard."
+        },
+        {
+          "title": "Tous niveaux",
+          "text": "Débutants sur les pistes du front de neige, confirmés sur les itinéraires du domaine. En français, anglais ou portugais."
+        }
+      ],
+      "alsoText": "Le même moniteur à Courchevel, Méribel, Les Menuires et Saint-Martin.",
+      "faqTitle": "Moniteur ski Val Thorens",
+      "faq": [
+        {
+          "q": "Y a-t-il un moniteur de ski privé à Val Thorens ?",
+          "a": "Oui. Cours particuliers, accompagnement hors-piste, ski de randonnée et splitboard à Val Thorens. Diplômé d'État, FR · EN · PT."
+        },
+        {
+          "q": "Proposez-vous du ski de randonnée à Val Thorens ?",
+          "a": "Oui. Initiation et sorties avancées en ski de randonnée et splitboard, au départ de Val Thorens, selon les conditions du jour."
+        }
+      ]
+    }
+  },
+  "photoPage": {
+    "eyebrow": "Photographie & film",
+    "title": "Je skie avec vous",
+    "subtitle": "Photos et vidéos, sans interrompre votre journée. Un reportage haut de gamme, pour garder vos moments en montagne.",
+    "intro": "Je skie à vos côtés et je photographie en mouvement. Pas de temps mort : votre journée reste une journée de ski — simplement documentée. Je capte les virages, les regards, la lumière, sans vous arrêter.",
+    "intro2": "S'il se présente un cadre particulièrement beau, on peut poser un instant. Un moment est aussi réservé aux portraits pendant la journée, si vous le souhaitez.",
+    "values": [
+      { "title": "Présence discrète", "text": "Je skie avec vous. Pas d'interruption : du ski documenté, au fil des descentes." },
+      { "title": "Photographie éditoriale", "text": "Un regard de reportage, pas de poses figées." },
+      { "title": "Moments authentiques", "text": "Uniquement des instants naturels — rien de forcé." },
+      { "title": "Portraits minimalistes", "text": "Lumière, neige, silhouette. Peu d'éléments, beaucoup d'intention." },
+      { "title": "Galerie privée", "text": "Une galerie sécurisée, rien que pour vous." },
+      { "title": "Sélection fine art", "text": "Un tri exigeant : seules les images qui tiennent." }
+    ],
+    "photoEyebrow": "Photographie",
+    "photoTitle": "Reportages photo",
+    "videoEyebrow": "Vidéo",
+    "videoTitle": "Film sur les pistes",
+    "videoTech": "Caméras cinéma 4K–8K · 30 / 60 / 120 fps",
+    "photoRates": [
+      { "id": "photo-1h", "title": "1 heure", "meta": "40+ photos", "price": "230€" },
+      { "id": "photo-2h", "title": "2 heures", "meta": "70+ photos", "price": "410€" },
+      { "id": "photo-half", "title": "Demi-journée", "meta": "9h–12h30 ou 13h30–17h · 80+ photos", "price": "550€" },
+      { "id": "photo-full", "title": "Journée complète", "meta": "150+ photos", "price": "970€" }
+    ],
+    "videoRates": [
+      { "id": "video-2h", "title": "2 heures de tournage", "meta": "1 vidéo dynamique (45 s – 1 min 30)", "price": "550€" },
+      { "id": "video-half", "title": "Demi-journée vidéo", "meta": "1 film cinématographique (3–5 min)", "price": "850€" },
+      { "id": "video-full", "title": "Journée complète", "meta": "Suivi toute la journée · 1 film (5–10 min) + 1 teaser (30 s)", "price": "1 450€" }
+    ]
+  },
+  "contactPage": {
+    "eyebrow": "Contact",
+    "title": "Écrivez-moi",
+    "subtitle": "WhatsApp pour une réponse rapide — idéal depuis l'étranger. Email si vous préférez.",
+    "emailLabel": "Email",
+    "whatsappLabel": "Message WhatsApp",
+    "whatsappCta": "Ouvrir un message"
+  },
+  "aboutPage": {
+    "eyebrow": "À propos",
+    "title": "Moniteur, photographe, local",
+    "subtitle": "Sept saisons d'enseignement, vingt ans dans les Trois Vallées."
+  },
+  "booking": {
+    "eyebrow": "Réservation",
+    "title": "Choisissez une date",
+    "subtitle": "Sélectionnez un jour, renseignez vos informations — je vous confirme sur WhatsApp.",
+    "selectDate": "Date",
+    "selectSlot": "Créneau",
+    "morning": "Matin",
+    "morningHours": "9h – 13h",
+    "afternoon": "Après-midi",
+    "afternoonHours": "13h – 17h",
+    "fullday": "Journée",
+    "fulldayHours": "9h – 16h",
+    "legendAvailable": "Disponible",
+    "legendPartial": "Créneau partiel",
+    "legendUnavailable": "Indisponible",
+    "slotUnavailable": "Ce créneau n'est plus disponible.",
+    "service": "Prestation",
+    "name": "Nom",
+    "email": "Email",
+    "phone": "Téléphone",
+    "people": "Nombre de personnes",
+    "language": "Langue du cours",
+    "message": "Message (optionnel)",
+    "submit": "Réserver sur WhatsApp",
+    "note": "Seuls les créneaux ouverts apparaissent. La demande s'ouvre dans WhatsApp, déjà rédigée.",
+    "flexibility": "Les dates affichées correspondent à mes disponibilités du moment. Si celle que vous recherchez n'apparaît pas, contactez-moi : un créneau peut se libérer, et le planning peut être adapté.",
+    "required": "Veuillez choisir une date, un créneau, et remplir nom, email et téléphone.",
+    "offers": {
+      "ski-half": "Cours ou accompagnement — demi-journée (4h) — 550€",
+      "ski-full": "Cours ou accompagnement — journée (7h) — 770€",
+      "photo-1h": "Photo — 1 heure (40+ clichés) — 230€",
+      "photo-2h": "Photo — 2 heures (70+ clichés) — 410€",
+      "photo-half": "Photo — demi-journée (80+ clichés) — 550€",
+      "photo-full": "Photo — journée (150+ clichés) — 970€",
+      "video-2h": "Vidéo — 2h (45 s – 1 min 30) — 550€",
+      "video-half": "Vidéo — demi-journée (3–5 min) — 850€",
+      "video-full": "Vidéo — journée (film 5–10 min + teaser) — 1 450€"
+    },
+    "waMessage": "Bonjour Gabriel,\n\nJe souhaite réserver :\n{offer}\nDate : {date}\nCréneau : {slot}\nNom : {name}\nEmail : {email}\nTéléphone : {phone}\nPersonnes : {people}\nLangue : {language}\n\n{message}"
+  },
+  "whatsapp": {
+    "title": "WhatsApp",
+    "subtitle": "Un message court suffit. Je réponds en français, anglais ou portugais.",
+    "placeholder": "Votre message",
+    "send": "Envoyer",
+    "close": "Fermer",
+    "trigger": "Message"
+  }
+}

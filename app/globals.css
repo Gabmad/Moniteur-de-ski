@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-cream text-ink antialiased;
+  }
+
+  ::selection {
+    background: #c4a574;
+    color: #0b0b0b;
+  }
+}
+
+@layer components {
+  .container-narrow {
+    @apply mx-auto w-full max-w-content px-5 sm:px-8;
+  }
+
+  .eyebrow {
+    @apply font-sans text-[11px] font-medium uppercase tracking-luxury text-gold;
+  }
+
+  .gold-rule {
+    @apply mx-auto h-px w-10 bg-gold;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center border border-gold bg-gold px-8 py-3.5 font-sans text-[11px] font-medium uppercase tracking-luxury text-ink transition duration-300 hover:bg-gold-light hover:border-gold-light focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gold;
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center justify-center border border-white/70 bg-transparent px-8 py-3.5 font-sans text-[11px] font-medium uppercase tracking-luxury text-white transition duration-300 hover:border-gold hover:text-gold focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gold;
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center justify-center border border-ink/20 bg-transparent px-8 py-3.5 font-sans text-[11px] font-medium uppercase tracking-luxury text-ink transition duration-300 hover:border-gold hover:text-gold;
+  }
+
+  .section-title {
+    @apply font-serif text-3xl font-normal leading-tight text-ink sm:text-4xl md:text-[2.75rem];
+  }
+
+  .section-subtitle {
+    @apply mt-5 max-w-2xl text-[15px] font-light leading-relaxed text-ink-muted;
+  }
+
+  .prose-luxury {
+    @apply text-[15px] font-light leading-[1.85] text-ink-muted;
+  }
+
+  .input-luxury {
+    @apply w-full border border-ink/15 bg-white px-4 py-3 text-sm font-light text-ink outline-none transition placeholder:text-ink-faint focus:border-gold;
+  }
+
+  .label-luxury {
+    @apply mb-2 block text-[10px] font-medium uppercase tracking-luxury text-ink-faint;
+  }
+}

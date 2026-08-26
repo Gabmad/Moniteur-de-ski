@@ -1,0 +1,481 @@
+{
+  "brand": "Private Teaching",
+  "nav": {
+    "home": "Início",
+    "skiLessons": "Esqui & Snowboard",
+    "touring": "Ski touring",
+    "photography": "Fotografia",
+    "about": "Sobre",
+    "contact": "Contato",
+    "bookCta": "Reservar uma aula"
+  },
+  "meta": {
+    "home": {
+      "title": "Instrutor de esqui Courchevel, Méribel, Val Thorens | Trois Vallées",
+      "description": "Instrutor com Diploma de Estado em Courchevel, Méribel e Val Thorens. Aulas de esqui e snowboard, ski touring e splitboard — iniciação ou saída avançada. PT · FR · EN.",
+      "keywords": "professor de esqui Courchevel, instrutor esqui Méribel, instrutor esqui Val Thorens, ski touring Trois Vallées, splitboard Alpes, aula esqui particular português"
+    },
+    "skiLessons": {
+      "title": "Aulas de esqui particulares Courchevel | Méribel & Val Thorens",
+      "description": "Aulas particulares de esqui e snowboard em Courchevel, Méribel, Val Thorens, Les Menuires e Saint-Martin. Meio dia 550€, dia completo 770€. Diploma de Estado, PT · FR · EN.",
+      "keywords": "aula esqui particular Courchevel português, aula snowboard Méribel, instrutor esqui Val Thorens, acompanhamento fora de pista Trois Vallées"
+    },
+    "touring": {
+      "title": "Instrutor de ski touring e splitboard | Trois Vallées",
+      "description": "Iniciação ou saída avançada de ski touring e splitboard em Courchevel, Méribel e Val Thorens. Instrutor com Diploma de Estado, acompanhamento privado.",
+      "keywords": "ski touring Trois Vallées, instrutor splitboard Courchevel, iniciação ski randonnée Méribel, ski touring Val Thorens, splitboard Alpes franceses"
+    },
+    "photography": {
+      "title": "Fotógrafo de esqui Trois Vallées | Foto a partir de 230€ · Vídeo a partir de 550€",
+      "description": "Fotografia editorial nas pistas das Trois Vallées. Presença discreta, momentos autênticos, galeria privada. Foto 1h 230€, meio dia 550€, dia completo 970€. Vídeo 4K–8K a partir de 550€.",
+      "keywords": "fotógrafo esqui Courchevel, foto montanha Trois Vallées, fotografia esqui Val Thorens, fotógrafo ski português Alpes"
+    },
+    "about": {
+      "title": "Sobre — Instrutor com Diploma de Estado, esqui e snowboard, Trois Vallées",
+      "description": "Diploma de Estado francês de moniteur de ski, 7 temporadas de ensino, 20 anos nas Trois Vallées. Aulas e acompanhamento em português, francês e inglês.",
+      "keywords": "instrutor esqui diploma estado Courchevel, professor esqui experiência Trois Vallées, moniteur ski portugais Alpes franceses"
+    },
+    "contact": {
+      "title": "Contato & reserva — Instrutor de esqui Trois Vallées | WhatsApp",
+      "description": "Reserve uma aula de esqui, uma saída de ski touring ou uma sessão fotográfica por WhatsApp. gabrielmadie@gmail.com — PT · FR · EN.",
+      "keywords": "reservar aula esqui Courchevel, professor esqui WhatsApp Val Thorens, instrutor esqui Trois Vallées português"
+    },
+    "courchevel": {
+      "title": "Instrutor de esqui em Courchevel | Aulas particulares, Diploma de Estado",
+      "description": "Instrutor de esqui privado em Courchevel 1850, 1650 e 1550. Aulas, fora de pista, ski touring e splitboard nas Trois Vallées. PT · FR · EN.",
+      "keywords": "professor de esqui Courchevel, aula esqui particular Courchevel 1850, snowboard Courchevel, ski touring Courchevel, splitboard Courchevel"
+    },
+    "meribel": {
+      "title": "Instrutor de esqui em Méribel | Aulas particulares Trois Vallées",
+      "description": "Instrutor de esqui privado em Méribel e Méribel-Mottaret. Aulas de esqui, snowboard, ski touring e splitboard no coração das Trois Vallées.",
+      "keywords": "instrutor esqui Méribel, aula esqui particular Méribel Mottaret, ski touring Méribel, splitboard Méribel, professor esqui português Alpes"
+    },
+    "valThorens": {
+      "title": "Instrutor de esqui em Val Thorens | Aulas e ski touring",
+      "description": "Instrutor de esqui privado em Val Thorens, a estação mais alta da Europa. Aulas, fora de pista, ski touring e splitboard. Diploma de Estado.",
+      "keywords": "instrutor esqui Val Thorens, aula esqui particular Val Thorens, ski touring Val Thorens, splitboard Val Thorens, professor esqui português"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Les Trois Vallées",
+      "title": "Instrutor de esqui privado nas Trois Vallées",
+      "subtitle": "Aulas de esqui e snowboard, ski touring e splitboard. Em português, francês e inglês — em Val Thorens, Méribel, Courchevel e outras estações dos Alpes.",
+      "cta": "Reservar uma aula",
+      "ctaSecondary": "Fotografia",
+      "languages": "Em português, francês e inglês"
+    },
+    "stats": {
+      "seasons": "temporadas de ensino",
+      "years": "anos nas Trois Vallées",
+      "languages": "idiomas falados",
+      "diplomaValue": "DE",
+      "diploma": "Diploma de Estado"
+    },
+    "intro": {
+      "title": "Uma experiência alpina, sob medida",
+      "diploma": "Diploma de Estado francês de moniteur de ski — o diploma oficial",
+      "text": "Instalado há duas décadas entre Courchevel, Méribel e Val Thorens, conheço as Trois Vallées como ninguém: as melhores pistas para cada nível, as zonas calmas para iniciantes, os itinerários de ski touring e splitboard. O Diplôme d'État é o título oficial para ensinar em França: pedagogia, segurança e montanha — incluindo fora de pista.",
+      "text2": "Falo fluentemente português, francês e inglês: uma resposta direta à crescente procura de clientes lusófonos (Brasil, Portugal) que procuram um instrutor capaz de ensinar em português, num dos maiores domínios esquiáveis do mundo."
+    },
+    "services": {
+      "title": "Expertise & serviços",
+      "headline": "Aulas, touring, fotografia",
+      "ski": {
+        "title": "Esqui & snowboard",
+        "description": "Aulas particulares em Courchevel, Méribel e Val Thorens. Esqui e snowboard, do iniciante ao avançado.",
+        "link": "Ver as aulas"
+      },
+      "touring": {
+        "title": "Ski touring & splitboard",
+        "description": "Iniciação ou saída avançada. Peles, splitboard, fora de pista — ao seu ritmo, em segurança.",
+        "link": "Ver as saídas"
+      },
+      "guide": {
+        "title": "Pista e fora de pista",
+        "description": "Não são só aulas: um acompanhamento privado nas pistas e fora delas, para esquiar ao seu ritmo.",
+        "link": "Saber mais"
+      },
+      "photo": {
+        "title": "Fotografia nas pistas",
+        "description": "Fotógrafo profissional: imortalize as suas férias de esqui com imagens dignas de um álbum de montanha.",
+        "link": "Ver a galeria"
+      },
+      "combo": {
+        "title": "Pack aula + fotos",
+        "description": "Combine progressão e memórias: meio dia na neve seguido de uma sessão fotográfica ao pôr do sol.",
+        "link": "Pedir um orçamento"
+      }
+    },
+    "stations": {
+      "eyebrow": "O domínio",
+      "title": "Cinco estações, um só maciço",
+      "subtitle": "Um instrutor de esqui privado que conhece Courchevel, Méribel, Val Thorens, Les Menuires e Saint-Martin-de-Belleville.",
+      "places": [
+        {
+          "id": "courchevel",
+          "name": "Courchevel",
+          "blurb": "Aulas particulares em Courchevel 1850, 1650 e 1550 — famílias, iniciantes e esquiadores experientes, longe das filas da escola de esqui."
+        },
+        {
+          "id": "meribel",
+          "name": "Méribel",
+          "blurb": "O coração das Trois Vallées. Um instrutor de esqui em Méribel e Mottaret para ligar todo o domínio, em pista ou fora de pista."
+        },
+        {
+          "id": "valThorens",
+          "name": "Val Thorens",
+          "blurb": "A estação mais alta da Europa: neve fiável, fora de pista, ski touring e splitboard a partir de Val Thorens."
+        },
+        {
+          "id": "menuires",
+          "name": "Les Menuires",
+          "blurb": "Terreno generoso para progredir, famílias e grupos. Acesso direto ao resto do maciço."
+        },
+        {
+          "id": "saintMartin",
+          "name": "Saint-Martin-de-Belleville",
+          "blurb": "Aldeia autêntica, pistas calmas, e a ligação a Méribel e Les Menuires."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "items": [
+        {
+          "q": "Onde dá aulas de esqui nas Trois Vallées?",
+          "a": "Em Courchevel, Méribel, Val Thorens, Les Menuires e Saint-Martin-de-Belleville. Encontramo-nos na estação da sua estadia."
+        },
+        {
+          "q": "Propõe ski touring e splitboard?",
+          "a": "Sim. Iniciação (peles, conversões, primeira descida) ou saídas avançadas, em ski touring ou splitboard, conforme o nível e as condições."
+        },
+        {
+          "q": "Tem diploma para ensinar em Courchevel, Méribel e Val Thorens?",
+          "a": "Sim. Tenho o Diploma de Estado francês, o título oficial para ensinar esqui em França. Sete temporadas de ensino, vinte anos no maciço."
+        },
+        {
+          "q": "Em que idiomas são as aulas?",
+          "a": "Em português, francês e inglês — incluindo para clientes do Brasil e de Portugal."
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Reserva",
+      "title": "Reserve a sua estadia",
+      "subtitle": "Uma aula, uma saída de ski touring ou splitboard, uma sessão fotográfica. Resposta rápida por WhatsApp.",
+      "button": "Reservar uma aula"
+    }
+  },
+  "footer": {
+    "tagline": "Instrutor com Diploma de Estado — esqui, snowboard, touring e fotografia, Les Trois Vallées",
+    "rights": "Todos os direitos reservados.",
+    "whatsapp": "WhatsApp"
+  },
+  "common": {
+    "learnMore": "Saber mais",
+    "backToHome": "Voltar ao início"
+  },
+  "skiPage": {
+    "eyebrow": "Esqui & snowboard",
+    "title": "Aulas e acompanhamento privados",
+    "subtitle": "Esqui e snowboard, pista e fora de pista, em todo o domínio das Trois Vallées.",
+    "intro": "Instrutor com Diploma de Estado, ensino esqui e snowboard em Courchevel, Méribel, Val Thorens, Les Menuires e Saint-Martin-de-Belleville. Aulas particulares, em família ou em pequeno grupo — da primeira curva à técnica avançada.",
+    "intro2": "Não tem de ser uma aula. Muitos clientes querem simplesmente um acompanhamento: esquiar ao seu ritmo, descobrir o domínio, ir fora de pista ou partir em ski touring. O dia adapta-se a si.",
+    "lessonsTitle": "Aulas de esqui & snowboard",
+    "lessonsText": "Pedagogia personalizada, todos os níveis. Esqui alpino e snowboard. Em português, francês ou inglês. Um quadro privado, longe das filas das escolas de esqui.",
+    "guideTitle": "Acompanhamento pista e fora de pista",
+    "guideText": "Levo-o às mais belas linhas do maciço — pistas panorâmicas ou fora de pista — com o Diploma de Estado como garantia de segurança. Você esquia; eu trato do resto.",
+    "touringTitle": "Ski touring & splitboard",
+    "touringText": "Iniciação ou saída avançada. Peles, splitboard, primeira conversão ou linha mais empenhada — conforme o seu nível e o tempo.",
+    "touringLink": "Descobrir as saídas",
+    "forTitle": "Para quem",
+    "forItems": [
+      "Famílias e crianças",
+      "Particulares e casais",
+      "Iniciantes e esquiadores experientes",
+      "Clientes lusófonos (Brasil, Portugal)"
+    ],
+    "pricingEyebrow": "Preços",
+    "pricingTitle": "Aulas e acompanhamento",
+    "pricingNote": "As duas fórmulas aplicam-se às aulas de esqui / snowboard e ao acompanhamento em pista ou fora de pista. Forfait e material não incluídos.",
+    "halfLabel": "Meio dia",
+    "halfMeta": "4 horas",
+    "fullLabel": "Dia completo",
+    "fullMeta": "7 horas",
+    "zonesTitle": "Estações",
+    "faqTitle": "Perguntas frequentes",
+    "faq": [
+      {
+        "q": "Quanto custa uma aula de esqui particular em Courchevel?",
+        "a": "550€ o meio dia (4 h) e 770€ o dia completo (7 h). Os mesmos preços em Méribel, Val Thorens e nas outras estações das Trois Vallées. Forfait e material não incluídos."
+      },
+      {
+        "q": "A aula é na minha estação?",
+        "a": "Sim. Esteja em Courchevel, Méribel, Val Thorens, Les Menuires ou Saint-Martin, encontramo-nos no local."
+      },
+      {
+        "q": "É possível combinar aula de esqui e ski touring?",
+        "a": "Sim. Um dia pode ficar em pista, passar fora de pista, ou tornar-se uma saída de ski touring / splitboard se as condições o permitirem."
+      }
+    ]
+  },
+  "touringPage": {
+    "eyebrow": "Ski touring & splitboard",
+    "title": "Iniciação ou saída avançada",
+    "subtitle": "Ski touring e splitboard em Courchevel, Méribel e Val Thorens — ao seu ritmo, em segurança.",
+    "intro": "Guio saídas de ski touring e splitboard nas Trois Vallées: primeiras peles como linhas mais empenhadas. Com Diploma de Estado, adapto o itinerário ao nível, ao tempo e à neve.",
+    "intro2": "Partimos de Courchevel, Méribel ou Val Thorens. Não precisa de ser um expert: a iniciação existe para isso. Se já esquia fora de pista, procuramos saídas mais longas, mais belas, mais justas.",
+    "initiationEyebrow": "Começar",
+    "initiationTitle": "Iniciação ao ski touring",
+    "initiationText": "Colocar as peles, gerir a subida, aprender as conversões, preparar a descida. Uma primeira saída acompanhada para perceber o gesto, o ritmo e o terreno — sem se pôr em perigo.",
+    "advancedEyebrow": "Progredir",
+    "advancedTitle": "Saída avançada",
+    "advancedText": "Itinerários mais longos, pendentes mais sustentadas, escolha de percurso segundo o boletim. Para esquiadores e splitboarders já à vontade fora de pista, que querem ir mais longe no maciço.",
+    "splitEyebrow": "Splitboard",
+    "splitTitle": "Instrutor de splitboard",
+    "splitText": "Transições, subida em split, descida de snowboard. Acompanho splitboarders como esquiadores de randonnée: a mesma montanha, outro equipamento, a mesma exigência.",
+    "gearEyebrow": "Equipamento",
+    "gearTitle": "O material está incluído?",
+    "gearText": "Não. Não forneço o material: esquis ou splitboard, peles, botas e bastões ficam a seu cargo, em geral por aluguer. Posso aconselhar a escolha, conforme o nível e a saída.",
+    "gearNote": "Levo sempre um saco airbag e um ARVA extra, disponíveis se for preciso.",
+    "safetyEyebrow": "Montanha",
+    "safetyTitle": "Segurança e terreno",
+    "safetyText": "Cada saída depende das condições. Escolho o itinerário, leio o terreno, paro se for preciso. O Diploma de Estado cobre a segurança na montanha e o fora de pista — é o quadro destes dias.",
+    "pricingNote": "Os mesmos preços que as aulas e o acompanhamento: 550€ meio dia, 770€ dia completo. Material de randonnée e forfait não incluídos.",
+    "faqTitle": "Ski touring & splitboard",
+    "faq": [
+      {
+        "q": "Propõe iniciação ao ski touring?",
+        "a": "Sim. A iniciação cobre as peles, a subida, as conversões e uma descida adaptada. Ideal para uma primeira vez nas Trois Vallées."
+      },
+      {
+        "q": "E o splitboard?",
+        "a": "Sim. Saídas de splitboard em iniciação ou nível avançado, a partir de Courchevel, Méribel ou Val Thorens, conforme a neve do dia."
+      },
+      {
+        "q": "É preciso já ter feito fora de pista?",
+        "a": "Para a iniciação, não. Para uma saída avançada, é preciso à-vontade fora de pista e uma condição física razoável. Falamos antes de reservar."
+      },
+      {
+        "q": "Onde se realizam as saídas?",
+        "a": "Nas Trois Vallées: acesso a partir de Courchevel, Méribel, Val Thorens, Les Menuires ou Saint-Martin-de-Belleville, conforme o seu alojamento e o terreno do dia."
+      },
+      {
+        "q": "O material está incluído?",
+        "a": "Não. O material de randonnée ou splitboard é para alugar. Posso aconselhar a escolha, e levo sempre um saco airbag e um ARVA extra."
+      }
+    ]
+  },
+  "stationPages": {
+    "courchevel": {
+      "eyebrow": "Courchevel · Trois Vallées",
+      "title": "Instrutor de esqui em Courchevel",
+      "subtitle": "Aulas particulares de esqui e snowboard, fora de pista, ski touring e splitboard — Courchevel 1850, 1650, 1550.",
+      "intro": "Procura um instrutor de esqui em Courchevel, fora dos grupos da escola? Dou aulas particulares e acompanho em pista, fora de pista, ski touring e splitboard, em todo o setor de Courchevel.",
+      "intro2": "Vinte anos no maciço, sete temporadas de ensino, Diploma de Estado. Encontramo-nos em Courchevel 1850, 1650 ou 1550 — depois ligamos a Méribel e Val Thorens se o dia o pedir.",
+      "pointsEyebrow": "No local",
+      "pointsTitle": "Aulas de esqui particulares em Courchevel",
+      "points": [
+        {
+          "title": "Todos os níveis",
+          "text": "Primeiras curvas em pistas calmas, carving em 1850, fora de pista sob a Saulire. O dia é seu."
+        },
+        {
+          "title": "Famílias",
+          "text": "Um só instrutor para pais e filhos, ao ritmo de cada um, sem esperar o recolha da escola de esqui."
+        },
+        {
+          "title": "Touring & split",
+          "text": "A partir de Courchevel, iniciação ou saída avançada em ski touring e splitboard, assim que a neve o permitir."
+        },
+        {
+          "title": "Idiomas",
+          "text": "Aulas em português, francês ou inglês — incluindo para uma clientela internacional em Courchevel."
+        }
+      ],
+      "alsoText": "O mesmo acompanhamento em Méribel, Val Thorens e em todo o domínio.",
+      "faqTitle": "Instrutor esqui Courchevel",
+      "faq": [
+        {
+          "q": "Onde começa uma aula de esqui particular em Courchevel?",
+          "a": "Encontramo-nos ao pé das pistas de Courchevel 1850, 1650 ou 1550, conforme a sua residência. As Trois Vallées abrem-se a seguir."
+        },
+        {
+          "q": "Faz ski touring em Courchevel?",
+          "a": "Sim. Iniciação e saídas avançadas de ski touring e splitboard, a partir de Courchevel, conforme as condições."
+        }
+      ]
+    },
+    "meribel": {
+      "eyebrow": "Méribel · Trois Vallées",
+      "title": "Instrutor de esqui em Méribel",
+      "subtitle": "Aulas particulares no coração das Trois Vallées — Méribel e Méribel-Mottaret, pista, fora de pista, touring.",
+      "intro": "Méribel está no centro do maior domínio esquiável do mundo. Um instrutor de esqui privado em Méribel é poder ligar Courchevel de um lado e Val Thorens do outro, sem fila de escola de esqui.",
+      "intro2": "Aulas de esqui e snowboard, acompanhamento fora de pista, ski touring e splitboard. Com Diploma de Estado, falo português, francês e inglês — um pedido frequente em Méribel.",
+      "pointsEyebrow": "No centro",
+      "pointsTitle": "Aulas de esqui particulares em Méribel",
+      "points": [
+        {
+          "title": "Méribel & Mottaret",
+          "text": "Encontramo-nos em Méribel Centre ou Mottaret. Dali, todo o maciço está ao alcance: Courchevel, Les Menuires, Val Thorens."
+        },
+        {
+          "title": "Todos os terrenos",
+          "text": "Pistas largas para progredir, combes fora de pista, ligações panorâmicas. O dia escreve-se segundo o seu nível."
+        },
+        {
+          "title": "Ski touring",
+          "text": "Iniciação ou saída avançada a partir de Méribel, em ski touring ou splitboard, quando o boletim o permite."
+        },
+        {
+          "title": "Português e inglês",
+          "text": "Muitos clientes internacionais em Méribel. As aulas são no seu idioma."
+        }
+      ],
+      "alsoText": "Também dou aulas em Courchevel e Val Thorens, no mesmo maciço.",
+      "faqTitle": "Instrutor esqui Méribel",
+      "faq": [
+        {
+          "q": "Procura um professor de esqui em Méribel?",
+          "a": "Sim — aulas particulares de esqui e snowboard em Méribel e Mottaret, em português, francês ou inglês. Diploma de Estado francês."
+        },
+        {
+          "q": "É possível esquiar de Méribel para Val Thorens ou Courchevel?",
+          "a": "Sim. É precisamente a vantagem de um acompanhamento privado no centro das Trois Vallées: ligamos as estações sem nos perdermos no domínio."
+        }
+      ]
+    },
+    "valThorens": {
+      "eyebrow": "Val Thorens · Trois Vallées",
+      "title": "Instrutor de esqui em Val Thorens",
+      "subtitle": "Aulas particulares, fora de pista, ski touring e splitboard — a estação mais alta da Europa.",
+      "intro": "Val Thorens oferece a neve mais fiável das Trois Vallées, e um terreno ideal para fora de pista, ski touring e splitboard. Um instrutor de esqui privado em Val Thorens é esquiar alto, durante mais tempo, ao seu ritmo.",
+      "intro2": "Aulas de esqui e snowboard para todos os níveis, saídas de iniciação ou avançadas. Encontramo-nos em Val Thorens; podemos ligar Les Menuires, Méribel e Courchevel no mesmo dia.",
+      "pointsEyebrow": "Em altitude",
+      "pointsTitle": "Aulas de esqui particulares em Val Thorens",
+      "points": [
+        {
+          "title": "Neve e altitude",
+          "text": "Glaciar, Cime Caron, pistas de altitude. Val Thorens permanece esquiável cedo e tarde na temporada."
+        },
+        {
+          "title": "Fora de pista",
+          "text": "Um terreno vasto para um acompanhamento fora de pista, longe de grupos demasiado grandes."
+        },
+        {
+          "title": "Touring & splitboard",
+          "text": "Val Thorens é um excelente ponto de partida para uma iniciação ou uma saída avançada de ski touring e splitboard."
+        },
+        {
+          "title": "Todos os níveis",
+          "text": "Iniciantes nas pistas da frente de neve, confirmados nos itinerários do domínio. Em português, francês ou inglês."
+        }
+      ],
+      "alsoText": "O mesmo instrutor em Courchevel, Méribel, Les Menuires e Saint-Martin.",
+      "faqTitle": "Instrutor esqui Val Thorens",
+      "faq": [
+        {
+          "q": "Há um instrutor de esqui privado em Val Thorens?",
+          "a": "Sim. Aulas particulares, acompanhamento fora de pista, ski touring e splitboard em Val Thorens. Diploma de Estado, PT · FR · EN."
+        },
+        {
+          "q": "Propõe ski touring em Val Thorens?",
+          "a": "Sim. Iniciação e saídas avançadas de ski touring e splitboard, a partir de Val Thorens, conforme as condições do dia."
+        }
+      ]
+    }
+  },
+  "photoPage": {
+    "eyebrow": "Fotografia & filme",
+    "title": "Eu esquio consigo",
+    "subtitle": "Fotos e vídeos, sem interromper o seu dia. Uma reportagem de alto nível, para guardar os seus momentos na montanha.",
+    "intro": "Esquio ao seu lado e fotografo em movimento. Sem tempos mortos: o seu dia continua a ser um dia de esqui — simplesmente documentado. Capto as curvas, os olhares, a luz, sem o fazer parar.",
+    "intro2": "Se surgir um enquadramento particularmente belo, podemos parar um instante para posar. Há também um momento reservado a retratos durante o dia, se o desejar.",
+    "values": [
+      { "title": "Presença discreta nas pistas", "text": "Esquio consigo. Sem interrupção: esqui documentado, ao longo das descidas." },
+      { "title": "Fotografia editorial", "text": "Um olhar de reportagem, sem poses forçadas." },
+      { "title": "Momentos autênticos", "text": "Apenas instantes naturais — nada de encenado." },
+      { "title": "Retratos minimalistas", "text": "Luz, neve, silhueta. Poucos elementos, muita intenção." },
+      { "title": "Galeria privada", "text": "Uma galeria segura, só para si." },
+      { "title": "Seleção fine art", "text": "Um corte exigente: só as imagens que se aguentam." }
+    ],
+    "photoEyebrow": "Fotografia",
+    "photoTitle": "Reportagens fotográficas",
+    "videoEyebrow": "Vídeo",
+    "videoTitle": "Filme nas pistas",
+    "videoTech": "Câmaras cinema 4K–8K · 30 / 60 / 120 fps",
+    "photoRates": [
+      { "id": "photo-1h", "title": "1 hora", "meta": "40+ fotos", "price": "230€" },
+      { "id": "photo-2h", "title": "2 horas", "meta": "70+ fotos", "price": "410€" },
+      { "id": "photo-half", "title": "Meio dia", "meta": "9h–12h30 ou 13h30–17h · 80+ fotos", "price": "550€" },
+      { "id": "photo-full", "title": "Dia completo", "meta": "150+ fotos", "price": "970€" }
+    ],
+    "videoRates": [
+      { "id": "video-2h", "title": "2 horas de filmagem", "meta": "1 vídeo dinâmico (45 s – 1 min 30)", "price": "550€" },
+      { "id": "video-half", "title": "Meio dia de vídeo", "meta": "1 filme cinematográfico (3–5 min)", "price": "850€" },
+      { "id": "video-full", "title": "Dia completo", "meta": "Acompanhamento o dia todo · 1 filme (5–10 min) + 1 teaser (30 s)", "price": "1 450€" }
+    ]
+  },
+  "contactPage": {
+    "eyebrow": "Contato",
+    "title": "Escreva-me",
+    "subtitle": "WhatsApp para uma resposta rápida — ideal a partir do estrangeiro. Email se preferir.",
+    "emailLabel": "Email",
+    "whatsappLabel": "Mensagem WhatsApp",
+    "whatsappCta": "Abrir uma mensagem"
+  },
+  "aboutPage": {
+    "eyebrow": "Sobre",
+    "title": "Instrutor, fotógrafo, local",
+    "subtitle": "Sete temporadas de ensino, vinte anos nas Trois Vallées."
+  },
+  "booking": {
+    "eyebrow": "Reserva",
+    "title": "Escolha uma data",
+    "subtitle": "Selecione um dia, indique os seus dados — confirmo pelo WhatsApp.",
+    "selectDate": "Data",
+    "selectSlot": "Horário",
+    "morning": "Manhã",
+    "morningHours": "9h – 13h",
+    "afternoon": "Tarde",
+    "afternoonHours": "13h – 17h",
+    "fullday": "Dia completo",
+    "fulldayHours": "9h – 16h",
+    "legendAvailable": "Disponível",
+    "legendPartial": "Parcialmente disponível",
+    "legendUnavailable": "Indisponível",
+    "slotUnavailable": "Este horário já não está disponível.",
+    "service": "Serviço",
+    "name": "Nome",
+    "email": "Email",
+    "phone": "Telefone",
+    "people": "Número de pessoas",
+    "language": "Idioma da aula",
+    "message": "Mensagem (opcional)",
+    "submit": "Reservar no WhatsApp",
+    "note": "Só aparecem os horários abertos. O pedido abre no WhatsApp, já redigido.",
+    "flexibility": "As datas apresentadas correspondem à disponibilidade atual. Se a que procura não aparecer, contacte-me: um horário pode libertar-se, e o planeamento pode ser ajustado.",
+    "required": "Escolha uma data, um horário, e preencha nome, email e telefone.",
+    "offers": {
+      "ski-half": "Aula ou acompanhamento — meio dia (4h) — 550€",
+      "ski-full": "Aula ou acompanhamento — dia completo (7h) — 770€",
+      "photo-1h": "Foto — 1 hora (40+ imagens) — 230€",
+      "photo-2h": "Foto — 2 horas (70+ imagens) — 410€",
+      "photo-half": "Foto — meio dia (80+ imagens) — 550€",
+      "photo-full": "Foto — dia completo (150+ imagens) — 970€",
+      "video-2h": "Vídeo — 2h (45 s – 1 min 30) — 550€",
+      "video-half": "Vídeo — meio dia (3–5 min) — 850€",
+      "video-full": "Vídeo — dia completo (filme 5–10 min + teaser) — 1 450€"
+    },
+    "waMessage": "Olá Gabriel,\n\nGostaria de reservar:\n{offer}\nData: {date}\nHorário: {slot}\nNome: {name}\nEmail: {email}\nTelefone: {phone}\nPessoas: {people}\nIdioma: {language}\n\n{message}"
+  },
+  "whatsapp": {
+    "title": "WhatsApp",
+    "subtitle": "Uma mensagem curta chega. Respondo em português, francês ou inglês.",
+    "placeholder": "A sua mensagem",
+    "send": "Enviar",
+    "close": "Fechar",
+    "trigger": "Mensagem"
+  }
+}
