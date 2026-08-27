@@ -414,9 +414,9 @@
     "title": "Portuguese-speaking ski instructor",
     "subtitle": "Ski and snowboard lessons in Portuguese in Val Thorens, Méribel and Courchevel.",
     "intro": "Looking for a Portuguese-speaking ski instructor in Les Trois Vallées? Lessons are in Portuguese, for guests from Brazil and Portugal — without going through English or a ski-school group.",
-    "intro2": "I hold the French State diploma. We meet in Val Thorens, Méribel, Courchevel, Les Menuires or Saint-Martin. Ski, snowboard, off-piste, ski touring and splitboard, at your family's pace.",
+    "intro2": "I speak Portuguese — I am not Portuguese. I hold the French State diploma. We meet in Val Thorens, Méribel, Courchevel, Les Menuires or Saint-Martin. Ski, snowboard, off-piste, ski touring and splitboard, at your family's pace.",
     "pointsEyebrow": "In Portuguese",
-    "pointsTitle": "A Portuguese ski instructor in the Alps",
+    "pointsTitle": "A ski instructor who speaks Portuguese, in the Alps",
     "points": [
       {
         "title": "Brazil and Portugal",
@@ -445,6 +445,10 @@
       {
         "q": "Are lessons really in Portuguese?",
         "a": "Yes. Technique, safety and briefings in Portuguese — not a rough mix. French and English remain available if the group is mixed."
+      },
+      {
+        "q": "Are you Portuguese?",
+        "a": "No. I speak Portuguese — I am not Portuguese. Lessons are in your language, in Val Thorens, Méribel and Courchevel."
       },
       {
         "q": "Do you welcome Brazilian families?",

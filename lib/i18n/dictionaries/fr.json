@@ -414,9 +414,9 @@
     "title": "Moniteur de ski lusophone",
     "subtitle": "Cours de ski et snowboard en portugais à Val Thorens, Méribel et Courchevel.",
     "intro": "Vous cherchez un moniteur de ski lusophone dans les Trois Vallées ? Les cours se font en portugais, pour une clientèle du Brésil et du Portugal — sans passer par l'anglais ni par un groupe d'école de ski.",
-    "intro2": "Je suis diplômé d'État. On se retrouve à Val Thorens, Méribel, Courchevel, Les Menuires ou Saint-Martin. Ski, snowboard, hors-piste, ski de randonnée et splitboard, au rythme de votre famille.",
+    "intro2": "Je parle portugais, je ne suis pas Portugais. Diplômé d'État, on se retrouve à Val Thorens, Méribel, Courchevel, Les Menuires ou Saint-Martin. Ski, snowboard, hors-piste, ski de randonnée et splitboard, au rythme de votre famille.",
     "pointsEyebrow": "En portugais",
-    "pointsTitle": "Un moniteur de ski portugais dans les Alpes",
+    "pointsTitle": "Un moniteur qui parle portugais, dans les Alpes",
     "points": [
       {
         "title": "Brésil et Portugal",
@@ -445,6 +445,10 @@
       {
         "q": "Les cours sont-ils vraiment en portugais ?",
         "a": "Oui. Consignes, technique et sécurité en portugais — pas un mélange approximatif. Le français et l'anglais restent disponibles si le groupe est mixte."
+      },
+      {
+        "q": "Êtes-vous Portugais ?",
+        "a": "Non. Je parle portugais, je ne suis pas Portugais. Les cours se font dans votre langue, à Val Thorens, Méribel et Courchevel."
       },
       {
         "q": "Accueillez-vous des familles brésiliennes ?",

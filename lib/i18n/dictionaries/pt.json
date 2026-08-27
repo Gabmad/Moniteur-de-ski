@@ -414,9 +414,9 @@
     "title": "Instrutor de esqui em português",
     "subtitle": "Aulas de esqui e snowboard em português em Val Thorens, Méribel e Courchevel.",
     "intro": "Procura um instrutor de esqui em português nas Trois Vallées? As aulas são em português, para famílias do Brasil e de Portugal — sem passar pelo inglês nem por um grupo de escola de esqui.",
-    "intro2": "Tenho o Diploma de Estado francês. Encontramo-nos em Val Thorens, Méribel, Courchevel, Les Menuires ou Saint-Martin. Esqui, snowboard, fora de pista, ski touring e splitboard, ao ritmo da sua família.",
+    "intro2": "Falo português — não sou português. Tenho o Diploma de Estado francês. Encontramo-nos em Val Thorens, Méribel, Courchevel, Les Menuires ou Saint-Martin. Esqui, snowboard, fora de pista, ski touring e splitboard, ao ritmo da sua família.",
     "pointsEyebrow": "Em português",
-    "pointsTitle": "Um professor de esqui lusófono nos Alpes",
+    "pointsTitle": "Um instrutor que fala português, nos Alpes",
     "points": [
       {
         "title": "Brasil e Portugal",
@@ -445,6 +445,10 @@
       {
         "q": "As aulas são mesmo em português?",
         "a": "Sim. Técnica, segurança e indicações em português — não uma mistura aproximada. O francês e o inglês continuam disponíveis se o grupo for misto."
+      },
+      {
+        "q": "É português?",
+        "a": "Não. Falo português, não sou português. As aulas são na sua língua, em Val Thorens, Méribel e Courchevel."
       },
       {
         "q": "Recebe famílias brasileiras?",
