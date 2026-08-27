@@ -5,8 +5,9 @@ import PageHero from "@/components/PageHero";
 import BookingWidget from "@/components/booking/BookingWidget";
 import Faq from "@/components/Faq";
 import JsonLd from "@/components/JsonLd";
+import Reviews from "@/components/Reviews";
 import { photos } from "@/lib/photos";
-import { buildBreadcrumbJsonLd, buildFaqJsonLd } from "@/lib/seo/metadata";
+import { buildBreadcrumbJsonLd, buildFaqJsonLd, buildReviewJsonLd } from "@/lib/seo/metadata";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -18,6 +19,7 @@ interface LusophonePageProps {
 export default function LusophonePage({ locale, dict }: LusophonePageProps) {
   const page = dict.lusophonePage;
   const path = getLocalizedPath(locale, "lusophone");
+  const reviewLd = buildReviewJsonLd(page.testimonials.items);
 
   return (
     <>
@@ -29,6 +31,7 @@ export default function LusophonePage({ locale, dict }: LusophonePageProps) {
         ])}
       />
       <JsonLd data={buildFaqJsonLd(page.faq)} />
+      {reviewLd ? <JsonLd data={reviewLd} /> : null}
 
       <PageHero
         locale={locale}
@@ -107,6 +110,15 @@ export default function LusophonePage({ locale, dict }: LusophonePageProps) {
         </div>
       </section>
 
+      <Reviews
+        eyebrow={page.testimonials.eyebrow}
+        title={page.testimonials.title}
+        subtitle={page.testimonials.subtitle}
+        empty={page.testimonials.empty}
+        cta={page.testimonials.cta}
+        waMessage={page.testimonials.waMessage}
+        items={page.testimonials.items}
+      />
       <Faq title={page.faqTitle} items={page.faq} />
       <BookingWidget locale={locale} dict={dict} categories={["ski"]} />
     </>

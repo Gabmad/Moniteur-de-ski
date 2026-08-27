@@ -22,7 +22,12 @@ export function middleware(request: NextRequest) {
   );
 
   if (pathnameHasLocale) {
-    return NextResponse.next();
+    const locale = pathname.split("/")[1] ?? defaultLocale;
+    const requestHeaders = new Headers(request.headers);
+    requestHeaders.set("x-locale", locale);
+    return NextResponse.next({
+      request: { headers: requestHeaders },
+    });
   }
 
   if (pathname === "/") {

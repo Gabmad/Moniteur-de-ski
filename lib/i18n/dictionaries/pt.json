@@ -436,6 +436,15 @@
       }
     ],
     "alsoText": "As mesmas aulas em francês e em inglês, nas Trois Vallées.",
+    "testimonials": {
+      "eyebrow": "Depoimentos",
+      "title": "Famílias do Brasil e de Portugal",
+      "subtitle": "Os depoimentos aparecem aqui, em português. Depois da aula, uma mensagem no WhatsApp chega.",
+      "empty": "Os primeiros depoimentos serão publicados aqui. Se já esquiou comigo, fico feliz em receber o seu.",
+      "cta": "Enviar um depoimento no WhatsApp",
+      "waMessage": "Olá Gabriel, segue o meu depoimento após as aulas nas Trois Vallées:\n\n",
+      "items": []
+    },
     "faqTitle": "Instrutor de esqui em português",
     "faq": [
       {

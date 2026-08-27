@@ -436,6 +436,15 @@
       }
     ],
     "alsoText": "Les mêmes cours en français et en anglais, dans les Trois Vallées.",
+    "testimonials": {
+      "eyebrow": "Avis",
+      "title": "Familles du Brésil et du Portugal",
+      "subtitle": "Les témoignages s'affichent ici, en portugais. Après un cours, un message WhatsApp suffit.",
+      "empty": "Les premiers avis seront publiés ici. Si vous avez déjà skié avec moi, je serais heureux d'en recevoir un.",
+      "cta": "Envoyer un avis sur WhatsApp",
+      "waMessage": "Olá Gabriel, segue o meu depoimento após as aulas nas Trois Vallées:\n\n",
+      "items": []
+    },
     "faqTitle": "Moniteur de ski lusophone",
     "faq": [
       {

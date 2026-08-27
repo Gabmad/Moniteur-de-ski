@@ -31,6 +31,8 @@ export function buildPageMetadata(
         fr: `${businessInfo.url}${alternates.fr}`,
         en: `${businessInfo.url}${alternates.en}`,
         pt: `${businessInfo.url}${alternates.pt}`,
+        "pt-BR": `${businessInfo.url}${alternates.pt}`,
+        "pt-PT": `${businessInfo.url}${alternates.pt}`,
         "x-default": `${businessInfo.url}${alternates.fr}`,
       },
     },
@@ -70,6 +72,31 @@ export function buildFaqJsonLd(items: { q: string; a: string }[]) {
       acceptedAnswer: {
         "@type": "Answer",
         text: item.a,
+      },
+    })),
+  };
+}
+
+export function buildReviewJsonLd(
+  items: { name: string; place: string; text: string }[]
+) {
+  if (items.length === 0) return null;
+  return {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    itemListElement: items.map((item, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      item: {
+        "@type": "Review",
+        author: { "@type": "Person", name: item.name },
+        reviewBody: item.text,
+        inLanguage: "pt",
+        itemReviewed: {
+          "@type": "LocalBusiness",
+          name: businessInfo.name,
+          url: businessInfo.url,
+        },
       },
     })),
   };
