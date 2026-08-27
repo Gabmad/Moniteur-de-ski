@@ -17,7 +17,7 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://moniteur-ski-troisvallees.fr"),
+  metadataBase: new URL("https://www.3vallees-ski-snowboard.com"),
 };
 
 export default function RootLayout({

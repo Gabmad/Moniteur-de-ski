@@ -135,7 +135,7 @@ export const businessInfo = {
   phoneDisplay: "+33 7 83 66 11 46",
   whatsapp: "+33783661146",
   email: "gabrielmadie@gmail.com",
-  url: "https://moniteur-ski-troisvallees.fr",
+  url: "https://www.3vallees-ski-snowboard.com",
   areasServed: [
     "Courchevel",
     "Méribel",
