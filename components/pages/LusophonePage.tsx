@@ -113,10 +113,6 @@ export default function LusophonePage({ locale, dict }: LusophonePageProps) {
       <Reviews
         eyebrow={page.testimonials.eyebrow}
         title={page.testimonials.title}
-        subtitle={page.testimonials.subtitle}
-        empty={page.testimonials.empty}
-        cta={page.testimonials.cta}
-        waMessage={page.testimonials.waMessage}
         items={page.testimonials.items}
       />
       <Faq title={page.faqTitle} items={page.faq} />

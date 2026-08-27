@@ -439,11 +439,18 @@
     "testimonials": {
       "eyebrow": "Reviews",
       "title": "Families from Brazil and Portugal",
-      "subtitle": "Testimonials appear here, in Portuguese. After a lesson, a WhatsApp message is enough.",
-      "empty": "The first reviews will be published here. If you have already skied with me, I would be glad to receive one.",
-      "cta": "Send a review on WhatsApp",
-      "waMessage": "Olá Gabriel, segue o meu depoimento após as aulas nas Trois Vallées:\n\n",
-      "items": []
+      "items": [
+        {
+          "name": "Rodrigo",
+          "place": "MG",
+          "text": "Mais uma vez muito obrigado pelo dia! Grande abs"
+        },
+        {
+          "name": "Paula",
+          "place": "SP",
+          "text": "Gabriel, muito obrigada por essa semana de aulas e por nos apresentar aos 3V! Ele tem um jeito de ensinar muito tranquilo e acolhedor. Em nenhum momento tivemos medo, e as explicações foram sempre muito claras. Além disso, os restaurantes que ele escolheu foram ótimos também! Foi uma experiência muito especial."
+        }
+      ]
     },
     "faqTitle": "Portuguese-speaking ski instructor",
     "faq": [
