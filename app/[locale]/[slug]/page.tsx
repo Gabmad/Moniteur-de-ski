@@ -16,6 +16,7 @@ import StationPage from "@/components/pages/StationPage";
 import PhotoPage from "@/components/pages/PhotoPage";
 import ContactPage from "@/components/pages/ContactPage";
 import AboutPage from "@/components/pages/AboutPage";
+import LusophonePage from "@/components/pages/LusophonePage";
 
 export function generateStaticParams() {
   const params: { locale: string; slug: string }[] = [];
@@ -80,6 +81,9 @@ export default async function SlugPage({
   }
   if (routeKey === "contact") {
     return <ContactPage locale={locale} dict={dict} />;
+  }
+  if (routeKey === "lusophone") {
+    return <LusophonePage locale={locale} dict={dict} />;
   }
   return <AboutPage locale={locale} dict={dict} />;
 }

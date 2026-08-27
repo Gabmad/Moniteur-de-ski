@@ -13,7 +13,7 @@
     "home": {
       "title": "Moniteur de ski Courchevel, Méribel, Val Thorens | Trois Vallées",
       "description": "Moniteur diplômé d'État à Courchevel, Méribel et Val Thorens. Cours de ski et snowboard, ski de randonnée et splitboard — initiation ou sortie avancée. FR · EN · PT.",
-      "keywords": "moniteur de ski Courchevel, moniteur de ski Méribel, moniteur de ski Val Thorens, moniteur ski Trois Vallées, cours de ski privé Courchevel, ski instructor Meribel, moniteur ski de randonnée, moniteur splitboard, initiation ski randonnée Val Thorens"
+      "keywords": "moniteur de ski Courchevel, moniteur de ski Méribel, moniteur de ski Val Thorens, moniteur de ski lusophone, moniteur de ski portugais, moniteur ski Trois Vallées, cours de ski privé Courchevel, ski instructor Meribel, moniteur ski de randonnée, moniteur splitboard, initiation ski randonnée Val Thorens"
     },
     "skiLessons": {
       "title": "Cours de ski privé Courchevel | Méribel & Val Thorens",
@@ -51,9 +51,14 @@
       "keywords": "moniteur de ski Méribel, cours de ski privé Méribel Mottaret, ski instructor Meribel, ski de randonnée Méribel, splitboard Méribel"
     },
     "valThorens": {
-      "title": "Moniteur de ski à Val Thorens | Cours & ski de randonnée",
-      "description": "Moniteur de ski privé à Val Thorens, plus haute station d'Europe. Cours, hors-piste, ski de randonnée et splitboard. Diplômé d'État.",
-      "keywords": "moniteur de ski Val Thorens, cours de ski privé Val Thorens, ski de randonnée Val Thorens, moniteur splitboard Val Thorens, ski instructor Val Thorens"
+      "title": "Moniteur de ski Val Thorens | Cours privés diplômé d'État",
+      "description": "Moniteur de ski Val Thorens : cours privés, hors-piste, ski de randonnée et splitboard. Diplômé d'État, en français, anglais et portugais. Plus haute station d'Europe.",
+      "keywords": "moniteur de ski Val Thorens, moniteur ski Val Thorens, cours de ski privé Val Thorens, ski de randonnée Val Thorens, moniteur splitboard Val Thorens, ski instructor Val Thorens"
+    },
+    "lusophone": {
+      "title": "Moniteur de ski lusophone | Cours en portugais, Trois Vallées",
+      "description": "Moniteur de ski lusophone diplômé d'État : cours de ski et snowboard en portugais à Val Thorens, Méribel et Courchevel. Clientèle brésilienne et portugaise.",
+      "keywords": "moniteur de ski lusophone, moniteur de ski portugais, moniteur ski Brésil, cours de ski en portugais Val Thorens, instrutor esqui português Alpes, professor de esqui Trois Vallées"
     }
   },
   "home": {
@@ -76,7 +81,8 @@
       "title": "Une expérience alpine, sur-mesure",
       "diploma": "Diplômé d'État de moniteur de ski — le diplôme officiel français",
       "text": "Installé depuis deux décennies entre Courchevel, Méribel et Val Thorens, je connais les Trois Vallées comme ma poche : les meilleures pistes selon le niveau, les zones calmes pour les débutants, les itinéraires de ski de randonnée et de splitboard. Le diplôme d'État est le titre officiel pour enseigner en France : pédagogie, sécurité et montagne — y compris hors-piste.",
-      "text2": "Je parle couramment français, anglais et portugais : une réponse directe à la demande croissante de la clientèle lusophone (Brésil, Portugal) qui cherche un moniteur capable de transmettre en portugais, dans l'un des plus vastes domaines skiables du monde."
+      "text2": "Je parle couramment français, anglais et portugais : une réponse directe à la demande croissante de la clientèle lusophone (Brésil, Portugal) qui cherche un moniteur de ski lusophone, capable de transmettre en portugais dans les Trois Vallées.",
+      "lusophoneCta": "Moniteur de ski lusophone"
     },
     "services": {
       "title": "Expertise & services",
@@ -125,7 +131,7 @@
         {
           "id": "valThorens",
           "name": "Val Thorens",
-          "blurb": "La plus haute station d'Europe : neige sûre, hors-piste, ski de randonnée et splitboard depuis Val Thorens."
+          "blurb": "Moniteur de ski Val Thorens : plus haute station d'Europe, neige fiable, hors-piste, ski de randonnée et splitboard."
         },
         {
           "id": "menuires",
@@ -157,6 +163,14 @@
         {
           "q": "En quelles langues se déroulent les cours ?",
           "a": "En français, anglais et portugais — y compris pour une clientèle brésilienne et portugaise."
+        },
+        {
+          "q": "Cherchez-vous un moniteur de ski Val Thorens ?",
+          "a": "Oui. Je donne des cours particuliers et j'accompagne en piste, hors-piste et en ski de randonnée à Val Thorens, la plus haute station d'Europe. On se retrouve sur place."
+        },
+        {
+          "q": "Y a-t-il un moniteur de ski lusophone dans les Trois Vallées ?",
+          "a": "Oui. Je suis moniteur de ski lusophone : les cours se font en portugais, pour une clientèle du Brésil et du Portugal, à Val Thorens, Méribel et Courchevel."
         }
       ]
     },
@@ -169,6 +183,7 @@
   },
   "footer": {
     "tagline": "Moniteur diplômé d'État — ski, snowboard, randonnée & photographie, Les Trois Vallées",
+    "lusophone": "Moniteur lusophone",
     "rights": "Tous droits réservés.",
     "whatsapp": "WhatsApp"
   },
@@ -348,10 +363,10 @@
     },
     "valThorens": {
       "eyebrow": "Val Thorens · Trois Vallées",
-      "title": "Moniteur de ski à Val Thorens",
+      "title": "Moniteur de ski Val Thorens",
       "subtitle": "Cours privés, hors-piste, ski de randonnée et splitboard — plus haute station d'Europe.",
-      "intro": "Val Thorens offre la neige la plus fiable des Trois Vallées, et un terrain idéal pour le hors-piste, le ski de randonnée et le splitboard. Un moniteur de ski privé à Val Thorens, c'est skier haut, longtemps, à votre rythme.",
-      "intro2": "Cours de ski et snowboard pour tous niveaux, sorties initiation ou avancées. On se retrouve à Val Thorens ; on peut relier Les Menuires, Méribel et Courchevel dans la journée.",
+      "intro": "Vous cherchez un moniteur de ski Val Thorens, en dehors des groupes d'école ? Je donne des cours particuliers et j'accompagne en piste, hors-piste, en ski de randonnée et en splitboard, dans la plus haute station d'Europe.",
+      "intro2": "Val Thorens offre la neige la plus fiable des Trois Vallées. On se retrouve sur place ; on peut relier Les Menuires, Méribel et Courchevel dans la journée. Cours en français, anglais ou portugais.",
       "pointsEyebrow": "En altitude",
       "pointsTitle": "Cours de ski privé à Val Thorens",
       "points": [
@@ -368,23 +383,70 @@
           "text": "Val Thorens est un excellent point de départ pour une initiation ou une sortie avancée en ski de randonnée et splitboard."
         },
         {
-          "title": "Tous niveaux",
-          "text": "Débutants sur les pistes du front de neige, confirmés sur les itinéraires du domaine. En français, anglais ou portugais."
+          "title": "Tous niveaux, trois langues",
+          "text": "Débutants sur le front de neige, confirmés sur le domaine. En français, anglais, ou avec un moniteur de ski lusophone en portugais."
         }
       ],
       "alsoText": "Le même moniteur à Courchevel, Méribel, Les Menuires et Saint-Martin.",
-      "faqTitle": "Moniteur ski Val Thorens",
+      "faqTitle": "Moniteur de ski Val Thorens",
       "faq": [
         {
-          "q": "Y a-t-il un moniteur de ski privé à Val Thorens ?",
+          "q": "Cherchez-vous un moniteur de ski Val Thorens ?",
           "a": "Oui. Cours particuliers, accompagnement hors-piste, ski de randonnée et splitboard à Val Thorens. Diplômé d'État, FR · EN · PT."
         },
         {
           "q": "Proposez-vous du ski de randonnée à Val Thorens ?",
           "a": "Oui. Initiation et sorties avancées en ski de randonnée et splitboard, au départ de Val Thorens, selon les conditions du jour."
+        },
+        {
+          "q": "Le cours à Val Thorens peut-il se faire en portugais ?",
+          "a": "Oui. Je suis un moniteur de ski lusophone : les cours à Val Thorens se font en portugais, en français ou en anglais."
         }
       ]
     }
+  },
+  "lusophonePage": {
+    "eyebrow": "Portugais · Brésil · Portugal",
+    "title": "Moniteur de ski lusophone",
+    "subtitle": "Cours de ski et snowboard en portugais à Val Thorens, Méribel et Courchevel.",
+    "intro": "Vous cherchez un moniteur de ski lusophone dans les Trois Vallées ? Les cours se font en portugais, pour une clientèle du Brésil et du Portugal — sans passer par l'anglais ni par un groupe d'école de ski.",
+    "intro2": "Je suis diplômé d'État. On se retrouve à Val Thorens, Méribel, Courchevel, Les Menuires ou Saint-Martin. Ski, snowboard, hors-piste, ski de randonnée et splitboard, au rythme de votre famille.",
+    "pointsEyebrow": "En portugais",
+    "pointsTitle": "Un moniteur de ski portugais dans les Alpes",
+    "points": [
+      {
+        "title": "Brésil et Portugal",
+        "text": "Une clientèle lusophone qui veut comprendre les consignes, progresser et skier en famille, dans sa langue."
+      },
+      {
+        "title": "Val Thorens, Méribel, Courchevel",
+        "text": "Le même moniteur de ski lusophone sur tout le domaine : on se retrouve dans votre station."
+      },
+      {
+        "title": "Familles",
+        "text": "Parents et enfants dans le même cours, sans file d'attente, avec les explications en portugais."
+      },
+      {
+        "title": "Diplôme d'État",
+        "text": "Le titre officiel pour enseigner en France : pédagogie, sécurité, hors-piste."
+      }
+    ],
+    "alsoText": "Les mêmes cours en français et en anglais, dans les Trois Vallées.",
+    "faqTitle": "Moniteur de ski lusophone",
+    "faq": [
+      {
+        "q": "Y a-t-il un moniteur de ski lusophone à Val Thorens ?",
+        "a": "Oui. Je donne des cours de ski et snowboard en portugais à Val Thorens, Méribel et Courchevel. Diplômé d'État."
+      },
+      {
+        "q": "Les cours sont-ils vraiment en portugais ?",
+        "a": "Oui. Consignes, technique et sécurité en portugais — pas un mélange approximatif. Le français et l'anglais restent disponibles si le groupe est mixte."
+      },
+      {
+        "q": "Accueillez-vous des familles brésiliennes ?",
+        "a": "Oui. C'est une part importante de la demande : un moniteur de ski lusophone pour toute la famille, au même rythme, dans les Trois Vallées."
+      }
+    ]
   },
   "photoPage": {
     "eyebrow": "Photographie & film",

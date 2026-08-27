@@ -22,7 +22,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
               ? 0.9
               : routeKey === "courchevel" ||
                   routeKey === "meribel" ||
-                  routeKey === "valThorens"
+                  routeKey === "valThorens" ||
+                  routeKey === "lusophone"
                 ? 0.85
                 : 0.7,
         alternates: {

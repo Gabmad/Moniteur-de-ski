@@ -51,9 +51,14 @@
       "keywords": "instrutor esqui Méribel, aula esqui particular Méribel Mottaret, ski touring Méribel, splitboard Méribel, professor esqui português Alpes"
     },
     "valThorens": {
-      "title": "Instrutor de esqui em Val Thorens | Aulas e ski touring",
-      "description": "Instrutor de esqui privado em Val Thorens, a estação mais alta da Europa. Aulas, fora de pista, ski touring e splitboard. Diploma de Estado.",
-      "keywords": "instrutor esqui Val Thorens, aula esqui particular Val Thorens, ski touring Val Thorens, splitboard Val Thorens, professor esqui português"
+      "title": "Instrutor de esqui Val Thorens | Aulas particulares, Diploma de Estado",
+      "description": "Instrutor de esqui em Val Thorens: aulas particulares, fora de pista, ski touring e splitboard. Diploma de Estado, em português, francês e inglês. A estação mais alta da Europa.",
+      "keywords": "instrutor esqui Val Thorens, professor de esqui Val Thorens, aula esqui particular Val Thorens, ski touring Val Thorens, professor esqui português Val Thorens"
+    },
+    "lusophone": {
+      "title": "Instrutor de esqui em português | Trois Vallées",
+      "description": "Instrutor de esqui lusófono com Diploma de Estado: aulas de esqui e snowboard em português em Val Thorens, Méribel e Courchevel. Clientes do Brasil e de Portugal.",
+      "keywords": "instrutor de esqui português, professor de esqui brasileiro Alpes, aulas de esqui em português Val Thorens, moniteur de ski lusophone, instrutor esqui Brasil Portugal"
     }
   },
   "home": {
@@ -76,7 +81,8 @@
       "title": "Uma experiência alpina, sob medida",
       "diploma": "Diploma de Estado francês de moniteur de ski — o diploma oficial",
       "text": "Instalado há duas décadas entre Courchevel, Méribel e Val Thorens, conheço as Trois Vallées como ninguém: as melhores pistas para cada nível, as zonas calmas para iniciantes, os itinerários de ski touring e splitboard. O Diplôme d'État é o título oficial para ensinar em França: pedagogia, segurança e montanha — incluindo fora de pista.",
-      "text2": "Falo fluentemente português, francês e inglês: uma resposta direta à crescente procura de clientes lusófonos (Brasil, Portugal) que procuram um instrutor capaz de ensinar em português, num dos maiores domínios esquiáveis do mundo."
+      "text2": "Falo fluentemente português, francês e inglês: uma resposta direta a quem procura um instrutor de esqui em português — famílias do Brasil e de Portugal nas Trois Vallées.",
+      "lusophoneCta": "Instrutor de esqui em português"
     },
     "services": {
       "title": "Expertise & serviços",
@@ -157,6 +163,14 @@
         {
           "q": "Em que idiomas são as aulas?",
           "a": "Em português, francês e inglês — incluindo para clientes do Brasil e de Portugal."
+        },
+        {
+          "q": "Há um instrutor de esqui em Val Thorens?",
+          "a": "Sim. Aulas particulares e acompanhamento em pista, fora de pista e ski touring em Val Thorens, a estação mais alta da Europa. Encontramo-nos no local."
+        },
+        {
+          "q": "Dá aulas como instrutor de esqui em português?",
+          "a": "Sim. As aulas são em português para clientes do Brasil e de Portugal, em Val Thorens, Méribel e Courchevel."
         }
       ]
     },
@@ -169,6 +183,7 @@
   },
   "footer": {
     "tagline": "Instrutor com Diploma de Estado — esqui, snowboard, touring e fotografia, Les Trois Vallées",
+    "lusophone": "Em português",
     "rights": "Todos os direitos reservados.",
     "whatsapp": "WhatsApp"
   },
@@ -382,9 +397,56 @@
         {
           "q": "Propõe ski touring em Val Thorens?",
           "a": "Sim. Iniciação e saídas avançadas de ski touring e splitboard, a partir de Val Thorens, conforme as condições do dia."
+        },
+        {
+          "q": "As aulas em Val Thorens podem ser em português?",
+          "a": "Sim. Sou instrutor de esqui em português: as aulas em Val Thorens são em português, francês ou inglês."
         }
       ]
     }
+  },
+  "lusophonePage": {
+    "eyebrow": "Português · Brasil · Portugal",
+    "title": "Instrutor de esqui em português",
+    "subtitle": "Aulas de esqui e snowboard em português em Val Thorens, Méribel e Courchevel.",
+    "intro": "Procura um instrutor de esqui em português nas Trois Vallées? As aulas são em português, para famílias do Brasil e de Portugal — sem passar pelo inglês nem por um grupo de escola de esqui.",
+    "intro2": "Tenho o Diploma de Estado francês. Encontramo-nos em Val Thorens, Méribel, Courchevel, Les Menuires ou Saint-Martin. Esqui, snowboard, fora de pista, ski touring e splitboard, ao ritmo da sua família.",
+    "pointsEyebrow": "Em português",
+    "pointsTitle": "Um professor de esqui lusófono nos Alpes",
+    "points": [
+      {
+        "title": "Brasil e Portugal",
+        "text": "Clientes lusófonos que querem perceber as indicações, evoluir e esquiar em família, na sua língua."
+      },
+      {
+        "title": "Val Thorens, Méribel, Courchevel",
+        "text": "O mesmo instrutor de esqui em português em todo o domínio: encontramos-nos na sua estação."
+      },
+      {
+        "title": "Famílias",
+        "text": "Pais e filhos na mesma aula, sem fila, com as explicações em português."
+      },
+      {
+        "title": "Diploma de Estado",
+        "text": "O título oficial para ensinar em França: pedagogia, segurança, fora de pista."
+      }
+    ],
+    "alsoText": "As mesmas aulas em francês e em inglês, nas Trois Vallées.",
+    "faqTitle": "Instrutor de esqui em português",
+    "faq": [
+      {
+        "q": "Há um instrutor de esqui em português em Val Thorens?",
+        "a": "Sim. Dou aulas de esqui e snowboard em português em Val Thorens, Méribel e Courchevel. Diploma de Estado."
+      },
+      {
+        "q": "As aulas são mesmo em português?",
+        "a": "Sim. Técnica, segurança e indicações em português — não uma mistura aproximada. O francês e o inglês continuam disponíveis se o grupo for misto."
+      },
+      {
+        "q": "Recebe famílias brasileiras?",
+        "a": "Sim. É uma parte importante da procura: um instrutor de esqui em português para toda a família, no mesmo ritmo, nas Trois Vallées."
+      }
+    ]
   },
   "photoPage": {
     "eyebrow": "Fotografia & filme",

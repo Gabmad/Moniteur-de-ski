@@ -144,6 +144,12 @@ export function buildLocalBusinessJsonLd(locale: Locale, dict: Dictionary) {
         areaServed,
         knowsLanguage: ["French", "English", "Portuguese"],
         availableLanguage: ["fr", "en", "pt"],
+        knowsAbout: [
+          "Moniteur de ski Val Thorens",
+          "Moniteur de ski lusophone",
+          "Private ski instructor Courchevel",
+          "Ski touring and splitboard",
+        ],
         hasOfferCatalog: {
           "@type": "OfferCatalog",
           name: catalogName,

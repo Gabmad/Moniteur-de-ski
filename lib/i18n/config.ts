@@ -25,7 +25,8 @@ export type RouteKey =
   | "contact"
   | "courchevel"
   | "meribel"
-  | "valThorens";
+  | "valThorens"
+  | "lusophone";
 
 /** Localized URL slugs per locale */
 export const routeSlugs: Record<RouteKey, Record<Locale, string>> = {
@@ -70,6 +71,11 @@ export const routeSlugs: Record<RouteKey, Record<Locale, string>> = {
     en: "ski-instructor-val-thorens",
     pt: "professor-esqui-val-thorens",
   },
+  lusophone: {
+    fr: "moniteur-ski-lusophone",
+    en: "portuguese-speaking-ski-instructor",
+    pt: "instrutor-esqui-portugues",
+  },
 };
 
 export const primaryNav: RouteKey[] = [
@@ -97,6 +103,7 @@ export const allRoutes: RouteKey[] = [
   "courchevel",
   "meribel",
   "valThorens",
+  "lusophone",
 ];
 
 export function isValidLocale(locale: string): locale is Locale {

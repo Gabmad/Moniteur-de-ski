@@ -26,6 +26,12 @@ export default function Intro({ locale, dict }: IntroProps) {
             <p className="prose-luxury mt-6">{intro.text}</p>
             <p className="prose-luxury mt-5">{intro.text2}</p>
             <Link
+              href={getLocalizedPath(locale, "lusophone")}
+              className="mt-6 inline-block text-[12px] font-medium uppercase tracking-luxury text-gold transition hover:text-ink"
+            >
+              {intro.lusophoneCta}
+            </Link>
+            <Link
               href={getLocalizedPath(locale, "about")}
               className="btn-ghost mt-10"
             >

@@ -76,6 +76,12 @@ export default function Footer({ locale, dict }: FooterProps) {
             >
               Val Thorens
             </Link>
+            <Link
+              href={getLocalizedPath(locale, "lusophone")}
+              className="text-[11px] font-medium uppercase tracking-luxury text-white/40 transition hover:text-gold"
+            >
+              {dict.footer.lusophone}
+            </Link>
           </nav>
 
           <div className="mt-10 flex flex-col items-center gap-2 text-[13px] font-light">

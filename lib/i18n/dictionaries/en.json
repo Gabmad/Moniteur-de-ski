@@ -51,9 +51,14 @@
       "keywords": "ski instructor Meribel, private ski lessons Méribel Mottaret, English speaking ski instructor Méribel, ski touring Meribel, splitboard Meribel"
     },
     "valThorens": {
-      "title": "Ski Instructor in Val Thorens | Lessons & Ski Touring",
-      "description": "Private ski instructor in Val Thorens, Europe's highest resort. Lessons, off-piste, ski touring and splitboard. French State diploma.",
-      "keywords": "ski instructor Val Thorens, private ski lessons Val Thorens, ski touring Val Thorens, splitboard instructor Val Thorens"
+      "title": "Ski Instructor Val Thorens | Private lessons, State diploma",
+      "description": "Ski instructor in Val Thorens: private lessons, off-piste, ski touring and splitboard. French State diploma, in English, French and Portuguese. Europe's highest resort.",
+      "keywords": "ski instructor Val Thorens, private ski lessons Val Thorens, ski touring Val Thorens, splitboard instructor Val Thorens, Portuguese speaking ski instructor Val Thorens"
+    },
+    "lusophone": {
+      "title": "Portuguese-speaking ski instructor | Trois Vallées",
+      "description": "Portuguese-speaking ski instructor with the French State diploma. Ski and snowboard lessons in Portuguese in Val Thorens, Méribel and Courchevel, for guests from Brazil and Portugal.",
+      "keywords": "Portuguese speaking ski instructor, Brazilian ski instructor French Alps, aula de esqui em português Val Thorens, moniteur de ski lusophone, ski instructor Brazil Portugal"
     }
   },
   "home": {
@@ -76,7 +81,8 @@
       "title": "A tailor-made alpine experience",
       "diploma": "French State-certified ski instructor — the official French diploma",
       "text": "Based for two decades across Courchevel, Méribel and Val Thorens, I know Les Trois Vallées inside out: the best runs for every level, quiet zones for beginners, ski-touring and splitboard itineraries. The Diplôme d'État is the official qualification to teach in France: teaching, mountain safety and off-piste.",
-      "text2": "I speak fluent French, English and Portuguese — a direct answer to the growing demand from Lusophone clients (Brazil, Portugal) looking for an instructor who can teach in Portuguese, in one of the world's largest ski areas."
+      "text2": "I speak fluent French, English and Portuguese — a direct answer to Lusophone guests from Brazil and Portugal looking for a Portuguese-speaking ski instructor in Les Trois Vallées.",
+      "lusophoneCta": "Portuguese-speaking instructor"
     },
     "services": {
       "title": "Expertise & services",
@@ -157,6 +163,14 @@
         {
           "q": "Which languages are lessons in?",
           "a": "French, English and Portuguese — including for Brazilian and Portuguese guests."
+        },
+        {
+          "q": "Are you a ski instructor in Val Thorens?",
+          "a": "Yes. Private lessons and guiding on-piste, off-piste and ski touring in Val Thorens, Europe's highest resort. We meet on site."
+        },
+        {
+          "q": "Do you teach as a Portuguese-speaking ski instructor?",
+          "a": "Yes. Lessons are in Portuguese for guests from Brazil and Portugal, in Val Thorens, Méribel and Courchevel."
         }
       ]
     },
@@ -169,6 +183,7 @@
   },
   "footer": {
     "tagline": "French State-certified instructor — ski, snowboard, touring & photography, Les Trois Vallées",
+    "lusophone": "Portuguese-speaking",
     "rights": "All rights reserved.",
     "whatsapp": "WhatsApp"
   },
@@ -382,9 +397,56 @@
         {
           "q": "Do you offer ski touring in Val Thorens?",
           "a": "Yes. Beginner introductions and advanced ski touring and splitboard outings, starting from Val Thorens, according to the day's conditions."
+        },
+        {
+          "q": "Can Val Thorens lessons be in Portuguese?",
+          "a": "Yes. I teach as a Portuguese-speaking ski instructor: lessons in Val Thorens are in Portuguese, French or English."
         }
       ]
     }
+  },
+  "lusophonePage": {
+    "eyebrow": "Portuguese · Brazil · Portugal",
+    "title": "Portuguese-speaking ski instructor",
+    "subtitle": "Ski and snowboard lessons in Portuguese in Val Thorens, Méribel and Courchevel.",
+    "intro": "Looking for a Portuguese-speaking ski instructor in Les Trois Vallées? Lessons are in Portuguese, for guests from Brazil and Portugal — without going through English or a ski-school group.",
+    "intro2": "I hold the French State diploma. We meet in Val Thorens, Méribel, Courchevel, Les Menuires or Saint-Martin. Ski, snowboard, off-piste, ski touring and splitboard, at your family's pace.",
+    "pointsEyebrow": "In Portuguese",
+    "pointsTitle": "A Portuguese ski instructor in the Alps",
+    "points": [
+      {
+        "title": "Brazil and Portugal",
+        "text": "Lusophone guests who want to understand the brief, progress and ski as a family, in their own language."
+      },
+      {
+        "title": "Val Thorens, Méribel, Courchevel",
+        "text": "The same Portuguese-speaking instructor across the ski area: we meet in your resort."
+      },
+      {
+        "title": "Families",
+        "text": "Parents and children in the same lesson, no queue, with explanations in Portuguese."
+      },
+      {
+        "title": "State diploma",
+        "text": "The official qualification to teach in France: pedagogy, safety, off-piste."
+      }
+    ],
+    "alsoText": "The same lessons in French and English, across Les Trois Vallées.",
+    "faqTitle": "Portuguese-speaking ski instructor",
+    "faq": [
+      {
+        "q": "Is there a Portuguese-speaking ski instructor in Val Thorens?",
+        "a": "Yes. I teach ski and snowboard in Portuguese in Val Thorens, Méribel and Courchevel. French State diploma."
+      },
+      {
+        "q": "Are lessons really in Portuguese?",
+        "a": "Yes. Technique, safety and briefings in Portuguese — not a rough mix. French and English remain available if the group is mixed."
+      },
+      {
+        "q": "Do you welcome Brazilian families?",
+        "a": "Yes. That is a large part of the demand: a Portuguese-speaking ski instructor for the whole family, at the same pace, in Les Trois Vallées."
+      }
+    ]
   },
   "photoPage": {
     "eyebrow": "Photography & film",
