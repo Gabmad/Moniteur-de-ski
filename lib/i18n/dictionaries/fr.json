@@ -227,7 +227,11 @@
       },
       {
         "q": "Le cours se déroule-t-il dans ma station ?",
-        "a": "Oui. Que vous soyez à Courchevel, Méribel, Val Thorens, Les Menuires ou Saint-Martin, on se retrouve sur place."
+        "a": "On se retrouve dans votre station — Courchevel, Méribel, Val Thorens, Les Menuires ou Saint-Martin. On commence sur place, puis on skie dans les Trois Vallées si les conditions le permettent."
+      },
+      {
+        "q": "Quel matériel faut-il prévoir ?",
+        "a": "Le forfait de ski et tout le matériel (skis ou snowboard, chaussures, casque, etc.) sont à votre charge, en location ou personnels. Ils ne sont pas compris dans le tarif du cours."
       },
       {
         "q": "Peut-on combiner cours de ski et ski de randonnée ?",

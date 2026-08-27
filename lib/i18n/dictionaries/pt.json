@@ -227,7 +227,11 @@
       },
       {
         "q": "A aula é na minha estação?",
-        "a": "Sim. Esteja em Courchevel, Méribel, Val Thorens, Les Menuires ou Saint-Martin, encontramo-nos no local."
+        "a": "Encontramo-nos na sua estação — Courchevel, Méribel, Val Thorens, Les Menuires ou Saint-Martin. Começamos no local, depois esquiamos nas Trois Vallées se as condições o permitirem."
+      },
+      {
+        "q": "Que material é preciso?",
+        "a": "O forfait de esqui e todo o material (esquis ou snowboard, botas, capacete, etc.) ficam a seu cargo, alugados ou pessoais. Não estão incluídos no preço da aula."
       },
       {
         "q": "É possível combinar aula de esqui e ski touring?",

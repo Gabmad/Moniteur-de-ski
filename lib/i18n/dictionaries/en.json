@@ -227,7 +227,11 @@
       },
       {
         "q": "Does the lesson take place in my resort?",
-        "a": "Yes. Whether you are in Courchevel, Méribel, Val Thorens, Les Menuires or Saint-Martin, we meet on site."
+        "a": "We meet in your resort — Courchevel, Méribel, Val Thorens, Les Menuires or Saint-Martin. We start there, then ski across Les Trois Vallées if conditions allow."
+      },
+      {
+        "q": "What equipment do I need?",
+        "a": "The lift pass and all equipment (skis or snowboard, boots, helmet, etc.) are yours to arrange, rented or your own. They are not included in the lesson price."
       },
       {
         "q": "Can we combine a ski lesson with ski touring?",
