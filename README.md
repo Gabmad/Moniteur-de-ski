@@ -46,6 +46,12 @@ npm run build
 
 Pousser sur GitHub et importer le repo dans Vercel. Aucune configuration supplémentaire requise.
 
+## Calendrier admin (`/admin`)
+
+- Mot de passe : variable `ADMIN_PASSWORD` (Vercel → Settings → Environment Variables). Fallback local : `troisvallees`.
+- **En local** : l’enregistrement écrit dans `data/availability.json`.
+- **Sur Vercel** : crée un **Blob Store** (Storage → Blob), lie-le au projet (ajoute `BLOB_READ_WRITE_TOKEN`), puis redéploie. Sans ça, l’admin ne peut pas sauvegarder les dates en production.
+
 ## À personnaliser
 
 - `lib/i18n/config.ts` — téléphone, email, WhatsApp, URL du site
