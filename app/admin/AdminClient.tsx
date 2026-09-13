@@ -104,19 +104,29 @@ export default function AdminClient() {
   async function save() {
     setSaving(true);
     setStatus("");
-    const res = await fetch("/api/availability", {
-      method: "PUT",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ days: normalizeDays(days) }),
-    });
-    setSaving(false);
-    if (res.ok) {
-      const data = (await res.json()) as { days: AvailabilityMap };
-      setDays(data.days);
-      setStatus("Calendrier enregistré.");
-    } else {
-      const data = (await res.json()) as { error?: string };
-      setStatus(data.error || "Enregistrement impossible.");
+    try {
+      const res = await fetch("/api/availability", {
+        method: "PUT",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ days: normalizeDays(days) }),
+      });
+      const data = (await res.json().catch(() => ({}))) as {
+        days?: AvailabilityMap;
+        error?: string;
+      };
+      if (res.ok && data.days) {
+        setDays(data.days);
+        setStatus("Calendrier enregistré.");
+      } else {
+        setStatus(
+          data.error ||
+            `Enregistrement impossible (${res.status}). Vérifie la connexion ou le stockage Vercel Blob.`
+        );
+      }
+    } catch {
+      setStatus("Réseau indisponible. Réessaie dans un instant.");
+    } finally {
+      setSaving(false);
     }
   }
 
@@ -169,9 +179,16 @@ export default function AdminClient() {
               Par défaut, tout est fermé.
             </p>
           </div>
-          <button type="button" onClick={save} className="btn-primary" disabled={saving}>
-            {saving ? "Enregistrement…" : "Enregistrer"}
-          </button>
+          <div className="flex flex-col items-stretch gap-2 sm:items-end">
+            <button type="button" onClick={save} className="btn-primary" disabled={saving}>
+              {saving ? "Enregistrement…" : "Enregistrer"}
+            </button>
+            {status && (
+              <p className="max-w-sm text-sm font-light text-ink" role="status">
+                {status}
+              </p>
+            )}
+          </div>
         </div>
 
         <div className="mt-14 grid gap-12 lg:grid-cols-[1.1fr_0.9fr]">
@@ -304,7 +321,6 @@ export default function AdminClient() {
           </div>
         </div>
 
-        {status && <p className="mt-8 text-sm font-light text-ink">{status}</p>}
       </div>
     </main>
   );
