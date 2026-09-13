@@ -120,7 +120,7 @@ export default function AdminClient() {
       } else {
         setStatus(
           data.error ||
-            `Enregistrement impossible (${res.status}). Vérifie la connexion ou le stockage Vercel Blob.`
+            `Enregistrement impossible (${res.status}). Vérifie que le Blob est lié au projet, puis redéploie.`
         );
       }
     } catch {

@@ -50,7 +50,7 @@ Pousser sur GitHub et importer le repo dans Vercel. Aucune configuration supplé
 
 - Mot de passe : variable `ADMIN_PASSWORD` (Vercel → Settings → Environment Variables). Fallback local : `troisvallees`.
 - **En local** : l’enregistrement écrit dans `data/availability.json`.
-- **Sur Vercel** : crée un **Blob Store** (Storage → Blob), lie-le au projet (ajoute `BLOB_READ_WRITE_TOKEN`), puis redéploie. Sans ça, l’admin ne peut pas sauvegarder les dates en production.
+- **Sur Vercel** : crée un **Blob** (Storage), lie-le au projet (tu dois voir `BLOB_STORE_ID` dans les variables d’environnement), puis **redéploie**. Sans ça, l’admin ne peut pas sauvegarder les dates en production.
 
 ## À personnaliser
 

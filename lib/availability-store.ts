@@ -7,8 +7,11 @@ import { normalizeDays } from "./availability";
 const filePath = path.join(process.cwd(), "data", "availability.json");
 const blobPathname = "availability.json";
 
-function hasBlobToken(): boolean {
-  return Boolean(process.env.BLOB_READ_WRITE_TOKEN);
+/** Vercel Blob via OIDC (BLOB_STORE_ID) or legacy static token. */
+function hasBlobConfig(): boolean {
+  return Boolean(
+    process.env.BLOB_STORE_ID || process.env.BLOB_READ_WRITE_TOKEN
+  );
 }
 
 async function readFromFile(): Promise<AvailabilityMap> {
@@ -41,24 +44,24 @@ async function readFromBlob(): Promise<AvailabilityMap> {
 
 async function writeToBlob(days: AvailabilityMap): Promise<void> {
   const payload: AvailabilityFile = { days: normalizeDays(days) };
+  // Let the SDK pick OIDC (BLOB_STORE_ID + VERCEL_OIDC_TOKEN) or BLOB_READ_WRITE_TOKEN.
   await put(blobPathname, JSON.stringify(payload, null, 2), {
     access: "public",
     addRandomSuffix: false,
     allowOverwrite: true,
     contentType: "application/json",
-    token: process.env.BLOB_READ_WRITE_TOKEN,
   });
 }
 
 export async function readAvailability(): Promise<AvailabilityMap> {
-  if (hasBlobToken()) {
+  if (hasBlobConfig()) {
     return readFromBlob();
   }
   return readFromFile();
 }
 
 export async function writeAvailability(days: AvailabilityMap): Promise<void> {
-  if (hasBlobToken()) {
+  if (hasBlobConfig()) {
     await writeToBlob(days);
     return;
   }
@@ -67,7 +70,7 @@ export async function writeAvailability(days: AvailabilityMap): Promise<void> {
     await writeToFile(days);
   } catch (error) {
     const err = new Error(
-      "Impossible d'enregistrer sur l'hébergement actuel. Dans Vercel → Storage, crée un Blob Store lié au projet (ajoute BLOB_READ_WRITE_TOKEN), puis redéploie."
+      "Impossible d'enregistrer sur l'hébergement actuel. Dans Vercel → Storage, crée un Blob et lie-le au projet (BLOB_STORE_ID), puis redéploie."
     );
     (err as Error & { cause?: unknown }).cause = error;
     throw err;
