@@ -1,6 +1,6 @@
 import { promises as fs } from "fs";
 import path from "path";
-import { head, put } from "@vercel/blob";
+import { get, put } from "@vercel/blob";
 import type { AvailabilityFile, AvailabilityMap } from "./availability";
 import { normalizeDays } from "./availability";
 
@@ -32,10 +32,15 @@ async function writeToFile(days: AvailabilityMap): Promise<void> {
 
 async function readFromBlob(): Promise<AvailabilityMap> {
   try {
-    const meta = await head(blobPathname);
-    const res = await fetch(meta.url, { cache: "no-store" });
-    if (!res.ok) return {};
-    const parsed = (await res.json()) as AvailabilityFile;
+    const result = await get(blobPathname, {
+      access: "private",
+      useCache: false,
+    });
+    if (!result || result.statusCode !== 200 || !result.stream) {
+      return {};
+    }
+    const text = await new Response(result.stream).text();
+    const parsed = JSON.parse(text) as AvailabilityFile;
     return parsed.days ?? {};
   } catch {
     return {};
@@ -44,9 +49,9 @@ async function readFromBlob(): Promise<AvailabilityMap> {
 
 async function writeToBlob(days: AvailabilityMap): Promise<void> {
   const payload: AvailabilityFile = { days: normalizeDays(days) };
-  // Let the SDK pick OIDC (BLOB_STORE_ID + VERCEL_OIDC_TOKEN) or BLOB_READ_WRITE_TOKEN.
+  // Private store: access must be "private". SDK uses OIDC or BLOB_READ_WRITE_TOKEN.
   await put(blobPathname, JSON.stringify(payload, null, 2), {
-    access: "public",
+    access: "private",
     addRandomSuffix: false,
     allowOverwrite: true,
     contentType: "application/json",
