@@ -26,7 +26,7 @@ export default function ProductShowcase({
   line2 = "SLS",
   showLogo = true,
   showBadge = true,
-  productScale = 72,
+  productScale = 76,
   className = "",
 }: ProductShowcaseProps) {
   return (
@@ -76,21 +76,21 @@ export default function ProductShowcase({
   );
 }
 
-/** Approximate Duotone “twin chevron / D” mark as simple SVG. */
+/** Approximate Duotone twin-chevron mark (stylized D). */
 function DuotoneMark() {
   return (
     <svg
-      viewBox="0 0 64 48"
+      viewBox="0 0 72 52"
       width="100%"
       height="100%"
       fill="currentColor"
       xmlns="http://www.w3.org/2000/svg"
       aria-hidden="true"
     >
-      {/* Back chevron */}
-      <polygon points="2,4 28,4 50,24 28,44 2,44 24,24" opacity="0.35" />
+      {/* Rear chevron — lighter density like the brand mark */}
+      <path d="M4 6h26l22 20L30 46H4l20-20L4 6z" opacity="0.28" />
       {/* Front chevron */}
-      <polygon points="16,4 42,4 62,24 42,44 16,44 36,24" />
+      <path d="M22 6h26l22 20L48 46H22l20-20L22 6z" />
     </svg>
   );
 }

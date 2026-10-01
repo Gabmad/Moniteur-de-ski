@@ -14,7 +14,7 @@ export default function ShowcaseDemoClient() {
   const [line1, setLine1] = useState("REBEL");
   const [line2, setLine2] = useState("SLS");
   const [productSrc, setProductSrc] = useState(DEFAULT_PRODUCT);
-  const [productScale, setProductScale] = useState(72);
+  const [productScale, setProductScale] = useState(76);
 
   return (
     <div className="showcase-demo">
